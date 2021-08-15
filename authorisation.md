@@ -177,6 +177,19 @@ These approaches consider the `Business` examples above.
 - For search type endpoints, where a specific ID is not being used in the request, it's fine to just return an empty collection of results.
 - Access control operations should be in place as part of the search query anyway.
 
+### The concept of "Not Found" in an API
+
+- An API request that results in the concept of something not being "found" has the following possibilities:
+  - A user is trying to access data they once had access to, but is now deleted.
+  - A user is prodding the API with random (or stolen) ids for entities that they don't have access to.
+  - An API client application has bugs and is sending the wrong values/ids to an API endpoint
+- From a security perspective, the worst case should always be assumed.
+- If you have an endpoint that triggers some code that operates on a certain entity, and that entity is not found, then it should by default be considered an authorisation exception.
+- In most cases, most often, it should not be possible for an API Client app to be sending requests for data that:
+  - Does not exist at all.
+  - Does exist, but the requesting user does not have access to it.
+- So, whilst internally we do consider these kinds of requests as "authorisation issues", when we respond we always respond with the concept of "not found".
+
 ## Conclusion
 
 - There is no one size fits all solution for authorisation
