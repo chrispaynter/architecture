@@ -163,6 +163,20 @@ These approaches consider the `Business` examples above.
   - The user is not the owner
   - The business does not exist
 
+## Security by obscurity
+
+- When an operation is not authorised, by design of HTTP we can return a 403 Forbidden response.
+- However, this response code leaks sensitive details about the system to leak out.
+- In most cases, it's best to return a 400 Bad Request with a "not found" error code of some variety.
+  - In an API situation, returning a `NotFound (404)` result directly isn't appropriately, because that is reserved for if the actual API endpoint is not found.
+- This helps to prevent attackers from determining if resource IDs actually exist or not.
+- With good authorisation, this is not an attack vector in itself, but it's best to reduce the surface area of an attack by not leaking their existence.
+
+### An exception
+
+- For search type endpoints, where a specific ID is not being used in the request, it's fine to just return an empty collection of results.
+- Access control operations should be in place as part of the search query anyway.
+
 ## Conclusion
 
 - There is no one size fits all solution for authorisation
