@@ -177,18 +177,33 @@ These approaches consider the `Business` examples above.
 - For search type endpoints, where a specific ID is not being used in the request, it's fine to just return an empty collection of results.
 - Access control operations should be in place as part of the search query anyway.
 
-### The concept of "Not Found" in an API
+### The concept of "Not Found" inside a non public API
 
-- An API request that results in the concept of something not being "found" has the following possibilities:
-  - A user is trying to access data they once had access to, but is now deleted.
+- Private vs Public
+  - By public I mean a request that you don't have to be signed in to make
+  - By private I mean a request that you have to be signed in to make
+- To preface, for public APIs, such as those that drive content driven apps/sites such as Contentful, the concept of "not found" is perfectly fine.
+  - If that something that was once public, is no longer available, then it's appropriate to say it's "not found".
+- However, a private API request that results in the concept of some data not being "found" has the following possibilities:
   - A user is prodding the API with random (or stolen) ids for entities that they don't have access to.
   - An API client application has bugs and is sending the wrong values/ids to an API endpoint
+  - A user is trying to access data they once had access to, but is now deleted.
 - From a security perspective, the worst case should always be assumed.
-- If you have an endpoint that triggers some code that operates on a certain entity, and that entity is not found, then it should by default be considered an authorisation exception.
-- In most cases, most often, it should not be possible for an API Client app to be sending requests for data that:
+- If you have an endpoint that operates on a certain entity, and that entity is not found, then it should by default be considered an authorisation exception.
+- In most cases, it should not be possible for an API Client app to be sending requests for data that:
   - Does not exist at all.
   - Does exist, but the requesting user does not have access to it.
-- So, whilst internally we do consider these kinds of requests as "authorisation issues", when we respond we always respond with the concept of "not found".
+- This matters mostly _inside_ the api. Code execution should stop with an authorisation exception when this situation occurs.
+- However, as discussed in Security by Obscurity, it's always best for the API to respond to these kinds of unauthorised requests with a "not found" code.
+- With all that said, you may be able to see now how the concept of data "not being found", and "data being found but you aren't allowed to touch it" as being two peas in the same pod. Either way, you're unauthorised to make that kind of request.
+  - You're not allowed to access data that was deleted.
+  - You're not allowed to prod the API with random IDs
+- So in summary, in normal circumstances an API should not be getting calls by users for data that they don't have access to.
+- By taking a hard line on this, we can safely always throw from our code an Authorisation exception when data is not available to a given user because:
+  - The data isn't theirs
+  - The data doesn't exist
+  - In both scenarios, the request should never have been made legitimately.
+- 
 
 ## Conclusion
 
