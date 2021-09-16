@@ -6,6 +6,7 @@
 - [Exceptions for flow control in C#](https://enterprisecraftsmanship.com/posts/exceptions-for-flow-control/)
 - [Functional C#: Handling failures, input errors](https://enterprisecraftsmanship.com/posts/functional-c-handling-failures-input-errors/)
 - [Error codes or Exceptions? Why is Reliable Software so Hard?](http://damienkatz.net/2006/04/error_code_vs_e.html)
+- [Advanced error handling techniques](https://enterprisecraftsmanship.com/posts/advanced-error-handling-techniques/)
 
 ## Types of errors
 
