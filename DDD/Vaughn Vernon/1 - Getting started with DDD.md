@@ -35,6 +35,9 @@ DDD isn't first and foremost about technology:
 - A domain expert is not one by job title.
 - These are people that know the line of business you are in really well.
 - They probably have a lot of background in he business domain, and they might be product designers or even sales people.
+- Look past the job title.
+- The people you are looking for know more about what you are working on than anyone else, and for sure more than you know.
+- Find them. Listen. Learn. Design in code.
 
 ## Ubiquitous but not Universal
 
