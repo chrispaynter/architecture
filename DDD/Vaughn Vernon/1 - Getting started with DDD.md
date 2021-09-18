@@ -76,10 +76,12 @@
 ## The challenges of applying DDD
 
 - Some common ones
-
   - Allowing for the time and effort required to create a Ubiquitous Language
+    - To apply DD completely, with the greatest value to the business, it's going to require more thought and effort.
+    - That takes time. That's the way it is, period.
   - Involving domain experts at the outset and continuously with the project
+    - No matter the challenges procuring the experts, this is crucial.
+    - At least one, or you won't get deep knowledge of the domain.
+    - Developers must converse and listen with the true experts and mold their spoken language into software that reflects their mental model of the domain.
   - Changing the way developers think about solutions in their domain
-
-  
 
