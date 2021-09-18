@@ -39,6 +39,14 @@ DDD isn't first and foremost about technology:
 - The people you are looking for know more about what you are working on than anyone else, and for sure more than you know.
 - Find them. Listen. Learn. Design in code.
 
+### What's a domain model?
+
+- A software model of the very specific business domain you are working in.
+- Often implemented as an object model, which has both data and behaviour.
+- Carefully crafting a unique domain model at the heart of a core, strategic application or subsystem is essential to DDD.
+- With DDD, domain models tend to be smallish and very focused.
+- With DDD, you never try to model the whole business enterprise with a single, large domain model.
+
 ## Ubiquitous but not Universal
 
 - Ubiquitous is not a term to describe an enterprise-wide, company-wide or worldwide, universal domain language.
