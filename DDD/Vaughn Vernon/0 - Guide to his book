@@ -17,3 +17,5 @@
 ## Architecture
 
 - Domain models should be architecturally neutral.
+- A BC is hosted inside the arhitecture.
+- Architecture is import
