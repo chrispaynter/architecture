@@ -124,3 +124,14 @@
   - There is risk in using Transaction Script for complex applications.
   - If you use Transaction Script now, will the potential for refactoring to a behavioral domain model later on be practical?
 - Will the use of DDD tactical patterns make it easier and more practical to integrate with other BCs, whether 3rd pary or custom developed?
+- Will development really be simpler and require less code if you use Transaction Script?
+  - Be cautios because the complexity of the domain model and the innovation of the model are often not well understood during project planning.
+  - Underestimating domain complexity and the innovation involved often happen.
+- Do the critical path and timeline allow for any overhead required for tactical investment?
+- Will the tactical investment in a Core Domain protect the system from changing architectural influences?
+  - Transaction Script may leave it exposed.
+  - **Domain models are often enduring while architectural influnces tend to be more disruptive to other layers.**
+- Will customers/clients benifit from a cleaner, enduring design and development approach?
+  - Or could their application be replaced by an off-the-shelf solution tomorrow.
+  - Why would we develop this as a custom application in the first place?
+- 
