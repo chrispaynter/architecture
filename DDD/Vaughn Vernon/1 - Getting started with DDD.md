@@ -100,7 +100,7 @@
 - The **core domain** is an unknown and complex area.
 - The team is best protected against a disastrous failure if using the right tactics.
 
-**Some practical guidance**
+##### Some practical guidance
 
 - If a Bounded Context is being developed as the Core Domain, that BC is strategically vital to the success of the business.
   - The core model is not well understood, will require lots of experimentation and refactoring.
@@ -117,3 +117,7 @@
   - If the team is capable of properly applying tactical design and the Supporting Subdomain is innovative and must endure for years in the feture, this is a good opportunity to invest in your software using tactical design.
   - However, this *does not* make this model the Core Domain in the eyes of the business, it is merely supporting.
 
+##### Further decision parameters for using tactical design
+
+- Are domain experts available and are you committed to forming a team aroud them?
+- 
