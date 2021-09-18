@@ -9,11 +9,6 @@
 - In second priority are the *significant* **Supporting Subdomains**.
 - These get the most investment.
 
-**Use DDD to simplify, not to complicate**
-
-- Use DDD to model a complex domain in the simplest possible way.
-- Never use DDD to make your solution more complex.
-
 ## Can I DDD?
 
 You can implement DDD if you have:
@@ -125,7 +120,10 @@ DDD focuses on three primary aspects:
 
 ### Grappling with the complexity of your domain
 
+**Use DDD to simplify, not to complicate**
 
+- Use DDD to model a complex domain in the simplest possible way.
+- Never use DDD to make your solution more complex.
 
 ## Ubiquitous but not Universal
 
