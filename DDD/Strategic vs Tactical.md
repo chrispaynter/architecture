@@ -2,6 +2,8 @@
 
 ## Strategic
 
-- Bounded Context (BC) is a conceptual boundary where a domain model is applicable.
-- The BC provides context for the Ubiquitous Language (UL) spoken by the team.
+- **Bounded Context** (BC) is a conceptual boundary where a domain model is applicable.
+- The BC provides context for the **Ubiquitous Language** (UL) spoken by the team.
 - The UL is expressed in its carefully designed software model.
+- **Context Mapping** (CM) are used to show the relationships between BCs.
+  - Integration relationships between BCs include Open Host Service, Published Language, Anticorruption Layer, Customer-Supplier Partnership, Conformist, Shared Kernal.
