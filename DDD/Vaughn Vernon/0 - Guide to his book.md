@@ -37,6 +37,7 @@
 - **Services** are used to perform business operations that don't fit naturally as an operation on an Entity or a Value Object.
 - Use **Domain Events** to indicate the occurence of significant happenings in the domain.
 - Use **Modules** to package a limited set of cohesive domain objects.
+- **Tactical design helps us craft the single elegant model of a solution using time-tested, proven software building blocks.**
 
 
 
