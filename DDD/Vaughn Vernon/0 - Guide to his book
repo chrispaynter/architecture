@@ -34,3 +34,5 @@
 - Use **Domain Events** to indicate the occurence of significant happenings in the domain.
 - Use **Modules** to package a limited set of cohesive domain objects.
 
+
+
