@@ -120,4 +120,7 @@
 ##### Further decision parameters for using tactical design
 
 - Are domain experts available and are you committed to forming a team aroud them?
-- 
+- Even if the business domain is simple now, will it grow in complexity over time?
+  - There is risk in using Transaction Script for complex applications.
+  - If you use Transaction Script now, will the potential for refactoring to a behavioral domain model later on be practical?
+- Will the use of DDD tactical patterns make it easier and more practical to integrate with other BCs, whether 3rd pary or custom developed?
