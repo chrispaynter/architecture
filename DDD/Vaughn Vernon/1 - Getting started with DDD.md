@@ -26,7 +26,7 @@ You can implement DDD if you have:
 - The desire and ability to pay attention to details, to experiment and discover.
 - A drive to seek ways to code smarter and better.
 
-DDD isn't first and foremost about technology:
+### DDD isn't first and foremost about technology:
 
 - If you are capable of understanding the business in which your company works, you can at a minimum participate in the software model discover process to produc a **Ubiquitous Language**.
 
