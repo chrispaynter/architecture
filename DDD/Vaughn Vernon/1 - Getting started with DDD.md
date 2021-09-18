@@ -119,7 +119,13 @@ DDD focuses on three primary aspects:
     - a correct codification of the domain experts' mental model
     - Highly testable
     - Less error prone
-    - 
+    - Performs to SLAs
+    - Is scalable
+    - Allows for distributed computing
+
+### Grappling with the complexity of your domain
+
+
 
 ## Ubiquitous but not Universal
 
