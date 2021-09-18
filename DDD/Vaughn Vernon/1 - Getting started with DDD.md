@@ -74,6 +74,17 @@ You can implement DDD if you have:
     - Who must be involved
   - Tactical design helps us craft the single elegant model of a solution using time-tested, proven software building blocks.
 
+DDD has some up-front costs of time and effort for the team, like any good high yielding investment.
+
+### Delivering business value can be elusive
+
+- Software that delivers true business value aligns with the business strategic initaitives and bears solutions with clearly identifiable competitive advantage.
+  - Software that is not about the technology, but about the business.
+- One of the worst disconnects of a business software development is seen in the gap between domain experts and software developers.
+  - True domain experts are focused on delivering business value.
+  - **Software developers tend to be drawn to technology and technical solutions to business problems.**
+    - 
+
 ## Ubiquitous but not Universal
 
 - Ubiquitous is not a term to describe an enterprise-wide, company-wide or worldwide, universal domain language.
