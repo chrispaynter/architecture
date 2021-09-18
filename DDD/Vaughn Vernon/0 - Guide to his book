@@ -3,7 +3,8 @@
 ## Big-Picture view of DDD
 
 - UL is applicable within a single bounded context
-- Tactil
+- Tactical - the actual coding of the model, the way you choose to
+- Strategic - following the concepts of DDD
 
 ## Strategic
 
@@ -12,3 +13,7 @@
 - The UL is expressed in its carefully designed software model.
 - **Context Mapping** (CM) are used to show the relationships between BCs.
   - Integration relationships between BCs include Open Host Service, Published Language, Anticorruption Layer, Customer-Supplier Partnership, Conformist, Shared Kernal.
+
+## Architecture
+
+- Domain models should be architecturally neutral.
