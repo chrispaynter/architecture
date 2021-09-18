@@ -68,7 +68,11 @@ You can implement DDD if you have:
   - The design is how it works.
   - The best code design comes through quick experimental models, using an agile process.
 - **DDD provides sound software techniques that address both strategic and tactical design.**
-  - Strategic design helps us to understand what the most important software investments to make are.
+  - Strategic design helps us to determine: 
+    - what the most important software investments are to make.
+    - What existing software assets to leverage in order to get there faster and safest
+    - Who must be involved
+  - 
 
 ## Ubiquitous but not Universal
 
