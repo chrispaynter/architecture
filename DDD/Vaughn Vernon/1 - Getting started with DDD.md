@@ -12,15 +12,9 @@
 - Use DDD to model a complex domain in the simplest possible way.
 - Never use DDD to make your solution more complex.
 
+## Ubiquitous but not Universal
 
-
-1
-
-2
-
-3
-
-4
-
-5
-
+- Ubiquitous is not a term to describe an enterprise-wide, company-wide or worldwide, universal domain language.
+- Ther is one Ubiquitous Language per Bounded Context.
+- Bounded Contexts are relatively small. Large enough only to capture the complete UL of the isolated business domain.
+- The language is ubiquitous only within the team that is working on the project, that developes an isolated bounded context.
