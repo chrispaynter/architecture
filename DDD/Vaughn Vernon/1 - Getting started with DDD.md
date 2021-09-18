@@ -75,3 +75,11 @@
 
 ## The challenges of applying DDD
 
+- Some common ones
+
+  - Allowing for the time and effort required to create a Ubiquitous Language
+  - Involving domain experts at the outset and continuously with the project
+  - Changing the way developers think about solutions in their domain
+
+  
+
