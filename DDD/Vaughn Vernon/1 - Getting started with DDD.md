@@ -106,7 +106,13 @@ DDD focuses on three primary aspects:
   - It also unifies the domain experts, who initially disagree with each other
     - Or lack core knowledge of the domain.
   - It strengthens the team by spreading deep domain insight among all team members, including devs.
-- Addresses the strategic initiatives of the business
+- **Addresses the strategic initiatives of the business**
+  - Addresses the strategic initiatives of the business.
+  - DDD naturally includes technical analysis, but it's more concerned with strategic direction.
+  - Helps to define inter-team organisational relationships (or inter business)
+  - ⚠️  **Provides early warning signs for recognising when a given relationship could cause software or even project failure.**
+  - The goal is to cleanly bound systems and business concerns, to protect each *business-level service*.
+  - Provides a map for potential service orientated architectures to be devices.
 - Meets the real technical demands of the software
 
 ## Ubiquitous but not Universal
