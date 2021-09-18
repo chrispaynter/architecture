@@ -26,6 +26,13 @@
 
 ### 1. The organisation gains a useful model of it's domain
 
+- The emphasis of DDD is to invest our efforts in what matters most to the business.
+- We focus predominantly on our core domain.
+- Supporting models may not be given the same priority and effort.
+  - They may even be outsourced to off the shelf solutions.
+- Our focus will be on what distinguishes our business from all others.
+- We'll be investing mostly into what is needed to achieve competitive advantage.
+
 ### 2. A refined, precise definition and understanding of the business is developed
 
 ### 3. Domain experts contribute to software design
