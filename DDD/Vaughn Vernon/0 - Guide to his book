@@ -6,7 +6,7 @@
 - Tactical - the actual coding of the model, the way you choose to
 - Strategic - following the concepts of DDD
 
-## Strategic
+## Strategic Modelling
 
 - **Bounded Context** (BC) is a conceptual boundary where a domain model is applicable.
 - The BC provides context for the **Ubiquitous Language** (UL) spoken by the team.
@@ -21,3 +21,14 @@
 - Architecture is important, but more emphasis should be place on domain model
   - Greater business value
   - More enduring
+
+## Tactical Modelling
+
+- We model tactically inside of a BC using DDD's building block patterns
+- **Aggregate** is one of the most important design patterns
+  - Composed of single **Entity**
+  - Or, a cluster of entities and **Value Objects**
+    - must remain transactionally consistent throughout the aggregate's lifetime.
+- An instance of an Aggregate is persisted using it's **Repository**.
+- **Services** are used to perform business operations that don't fit naturally as an operation on an Entity or a Value Object.
+- Use **Domain Events** to indicate the occurence of significant happenings in the domain.
