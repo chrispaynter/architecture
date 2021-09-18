@@ -82,8 +82,13 @@ DDD has some up-front costs of time and effort for the team, like any good high 
   - Software that is not about the technology, but about the business.
 - One of the worst disconnects of a business software development is seen in the gap between domain experts and software developers.
   - True domain experts are focused on delivering business value.
-  - **Software developers tend to be drawn to technology and technical solutions to business problems.**
-    - It's not that they
+  -  💭 **Software developers tend to be drawn to technology and technical solutions to business problems.**
+    - It's not that they have the wrong motivations, it's just what grabs their attention.
+    - Even when engaging with domain experts, it's often only at the surface level.
+    - The software that gets develop results in a translation layer between how the business thinks and how the developer interpreted that.
+    - Result does not reflect the mental model of the domain experts, or perhaps only partially.
+    - Over time this disconnect becomes costly.
+    - 
 
 ## Ubiquitous but not Universal
 
