@@ -99,5 +99,16 @@
 
 - The **core domain** is an unknown and complex area.
 - The team is best protected against a disastrous failure if using the right tactics.
+
+**Some practical guidance**
+
+- If a Bounded Context is being developed as the Core Domain, that BC is strategically vital to the success of the business.
+  - The core model is not well understood, will require lots of experimentation and refactoring.
+  - Deservers commitment to longevity and continous enchancement.
+  - If the BC is complex, innovative and needs to endure for a long time as it undergoes change, strongly consider the use of the tactical patterns as an investment into the future of your business.
+  - The core domain deserves the best developer resources, with a high skill level.
+- If you are developing a BC as your chief business initiative, it is your core domain regardless of how it is viewed by customers outside the business
+  - Despite the fact that it may actually be viewed as a **Generic Subdomain** or a **Supporting Subdomain** to them.
+  - Therefore, strongly consider the use of tactical patterns.
 - 
 
