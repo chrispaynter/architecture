@@ -84,4 +84,7 @@
     - At least one, or you won't get deep knowledge of the domain.
     - Developers must converse and listen with the true experts and mold their spoken language into software that reflects their mental model of the domain.
   - Changing the way developers think about solutions in their domain
+    - Some good information from pages 31 - 34
+    - Touches primarily on the need to model behaviours in a rich way, and some techniques we use to do that.
+    - Compares to the more tranactional script approach.
 
