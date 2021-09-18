@@ -1,5 +1,7 @@
 # Getting started with DDD
 
+[TOC]
+
 - We primarily want to use DDD in the areas that are most important to the business.
 - Don't invest in what can be easily replaced.
 - *Invest in the nontrivial, the more complex stuff, the most valuable and important stuff that promises to return the greatest dividends.*
@@ -7,7 +9,7 @@
 - In second priority are the *significant* **Supporting Subdomains**.
 - These get the most investment.
 
-#### Use DDD to simplify, not to complicate
+**Use DDD to simplify, not to complicate**
 
 - Use DDD to model a complex domain in the simplest possible way.
 - Never use DDD to make your solution more complex.
@@ -134,4 +136,15 @@
 - Will customers/clients benifit from a cleaner, enduring design and development approach?
   - Or could their application be replaced by an off-the-shelf solution tomorrow.
   - Why would we develop this as a custom application in the first place?
-- 
+- Will using tactical DDD be more difficult than approaches such as Transaction Script?
+  - **Skill level and availability of domain experts is vital to answering this question.**
+- In the end, it's the business customer, and not the object practioners and technologists, who must be pleased.
+- Choose wisely.
+
+### DDD is not heavy
+
+- It is meant to fit well into any agile project framework
+- Its design tenets lean toward rather rapid test-first refinements of a real software model.
+
+## Fiction, with buckets of reality
+
