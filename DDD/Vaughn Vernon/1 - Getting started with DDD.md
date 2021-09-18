@@ -113,7 +113,8 @@ DDD focuses on three primary aspects:
   - ⚠️  **Provides early warning signs for recognising when a given relationship could cause software or even project failure.**
   - The goal is to cleanly bound systems and business concerns, to protect each *business-level service*.
   - Provides a map for potential service orientated architectures to be devices.
-- Meets the real technical demands of the software
+- **Meets the real technical demands of the software**
+  - Uses tactical designs modeling tools to analyse and develop the executable software deliverables.
 
 ## Ubiquitous but not Universal
 
