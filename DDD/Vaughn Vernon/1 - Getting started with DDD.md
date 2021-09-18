@@ -59,7 +59,16 @@ You can implement DDD if you have:
   - Constant discovery process, becomes more insightful over time.
   - Everybody learns, because everybody contributes to discovery discussions.
 - **Centralizes knowledge**
-  - 
+  - Understanding the software is notlocked into a select few, who may leave.
+  - Often becomes just the developers
+- **Zero Translations**
+  - Between domain experts, software devs and the software itself.
+  - DDD develops a common shared language that everyone on the team speaks.
+- **The design is the code, and the code is the design**
+  - The design is how it works.
+  - The best code design comes through quick experimental models, using an agile process.
+- **DDD provides sound software techniques that address both strategic and tactical design.**
+  - Strategic design helps us to understand what the most important software investments to make are.
 
 ## Ubiquitous but not Universal
 
