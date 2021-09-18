@@ -14,6 +14,28 @@
 - Use DDD to model a complex domain in the simplest possible way.
 - Never use DDD to make your solution more complex.
 
+## Can I DDD?
+
+You can implement DDD if you have:
+
+- A passion for creating excellent software every day, and the tenacity to achieve that goal.
+- The eagerness to learn and improve, and the fortitude to admit you need to.
+- The aptitude to understand software patterns and how to properly apply them.
+- The skill and patience to explore design alternatives using proven agile methods.
+- The courage to challenge the status quo
+- The desire and ability to pay attention to details, to experiment and discover.
+- A drive to seek ways to code smarter and better.
+
+DDD isn't first and foremost about technology:
+
+- If you are capable of understanding the business in which your company works, you can at a minimum participate in the software model discover process to produc a **Ubiquitous Language**.
+
+### But we don't have domain experts
+
+- A domain expert is not one by job title.
+- These are people that know the line of business you are in really well.
+- They probably have a lot of background in he business domain, and they might be product designers or even sales people.
+
 ## Ubiquitous but not Universal
 
 - Ubiquitous is not a term to describe an enterprise-wide, company-wide or worldwide, universal domain language.
