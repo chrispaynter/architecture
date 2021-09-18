@@ -83,7 +83,7 @@ DDD has some up-front costs of time and effort for the team, like any good high 
 - One of the worst disconnects of a business software development is seen in the gap between domain experts and software developers.
   - True domain experts are focused on delivering business value.
   - **Software developers tend to be drawn to technology and technical solutions to business problems.**
-    - 
+    - It's not that they
 
 ## Ubiquitous but not Universal
 
