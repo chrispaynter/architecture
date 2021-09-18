@@ -1,4 +1,4 @@
-# Getting started with DDD
+# 1. Getting started with DDD
 
 [TOC]
 
