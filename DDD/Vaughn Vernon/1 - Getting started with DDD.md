@@ -115,4 +115,5 @@
   - Consider the skill level of the team.
   - If it's innovative, it adds specific business value, captures special knowledge, and is not just technically intriguing.
   - If the team is capable of properly applying tactical design and the Supporting Subdomain is innovative and must endure for years in the feture, this is a good opportunity to invest in your software using tactical design.
+  - However, this *does not* make this model the Core Domain in the eyes of the business, it is merely supporting.
 
