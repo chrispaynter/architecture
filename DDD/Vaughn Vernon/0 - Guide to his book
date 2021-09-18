@@ -32,3 +32,5 @@
 - An instance of an Aggregate is persisted using it's **Repository**.
 - **Services** are used to perform business operations that don't fit naturally as an operation on an Entity or a Value Object.
 - Use **Domain Events** to indicate the occurence of significant happenings in the domain.
+- Use **Modules** to package a limited set of cohesive domain objects.
+
