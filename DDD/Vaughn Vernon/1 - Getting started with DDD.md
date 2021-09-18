@@ -80,7 +80,7 @@ DDD has some up-front costs of time and effort for the team, like any good high 
 
 - Software that delivers true business value aligns with the business strategic initaitives and bears solutions with clearly identifiable competitive advantage.
   - Software that is not about the technology, but about the business.
-- One of the worst disconnects of a business software development is seen in the gap between domain experts and software developers.
+-  **💭 One of the worst disconnects of a business software development is seen in the gap between domain experts and software developers.**
   - True domain experts are focused on delivering business value.
   -  💭 **Software developers tend to be drawn to technology and technical solutions to business problems.**
     - It's not that they have the wrong motivations, it's just what grabs their attention.
