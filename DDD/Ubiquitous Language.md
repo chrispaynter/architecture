@@ -6,5 +6,5 @@
 
 ## Notes
 
-- UL is applicable within a single bounded context [Vaughn]
+- 
 - 
