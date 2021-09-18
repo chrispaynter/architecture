@@ -115,6 +115,11 @@ DDD focuses on three primary aspects:
   - Provides a map for potential service orientated architectures to be devices.
 - **Meets the real technical demands of the software**
   - Uses tactical designs modeling tools to analyse and develop the executable software deliverables.
+  - They allow developers to produce software that is:
+    - a correct codification of the domain experts' mental model
+    - Highly testable
+    - Less error prone
+    - 
 
 ## Ubiquitous but not Universal
 
