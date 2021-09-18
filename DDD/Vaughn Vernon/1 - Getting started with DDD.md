@@ -88,3 +88,16 @@
     - Touches primarily on the need to model behaviours in a rich way, and some techniques we use to do that.
     - Compares to the more tranactional script approach.
 
+### Justification for domain modeling
+
+- *Tactical* modeling is generally more complex than *strategic* modeling.
+- Using the DDD tactical patterns (Aggregates, Services, Value Objects, Events, etc) will require:
+  - more careful thought
+  - greater investment
+
+#### Criteria for justifying investment into tactical modeling
+
+- The **core domain** is an unknown and complex area.
+- The team is best protected against a disastrous failure if using the right tactics.
+- 
+
