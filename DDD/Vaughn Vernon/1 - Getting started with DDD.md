@@ -35,7 +35,22 @@
 
 ### 2. A refined, precise definition and understanding of the business is developed
 
+- Can help business understand itself and its mission better than before.
+- As model is refined over time, business develops a deep understanding.
+- Details surfacing from domain experts can be challenged and refined by others.
+
 ### 3. Domain experts contribute to software design
+
+- Domain experts can have different views, opinions, backgrounds.
+  - Different experiences before joining the organisation for example
+  - Divergent paths within the same organisation
+- When brought together via a DDD effort, domain experts gain consensus among themselves.
+- Fortfifies the effort and the organisation as a whole.
+- Developers now share a language with the domain experts.
+  - Benefit further from knowledge transfer from the domain experts.
+  - As developers move on training and handoffs are easier
+- Less chance of "tribal knowledge", where only a select few understand the model, are reduced.
+- The knowledge is available from anyone else in the organisation.
 
 ### 4. A better user experience is gained
 
