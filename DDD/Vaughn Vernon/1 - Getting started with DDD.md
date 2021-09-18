@@ -94,7 +94,18 @@ DDD has some up-front costs of time and effort for the team, like any good high 
 
 DDD focuses on three primary aspects:
 
-- Brings domain expets and software developers together
+- **Brings domain expets and software developers together**
+  - In order to develop software that reflects the mental model of the business experts.
+  - Not modelling the "real world".
+  - Rather, models that which is most important to the business.
+  - Ubiquitous Language is produced, with full team agreement.
+  - It's spoken, and directly captured in the model of the software. It's always "us".
+  - It allows business "know-how" to outlive relatively short development efforts that deliver the first few versions of the software.
+    - And the teams that produce it.
+  - This is what makes it a justifable business investment.
+  - It also unifies the domain experts, who initially disagree with each other
+    - Or lack core knowledge of the domain.
+  - It strengthens the team by spreading deep domain insight among all team members, including devs.
 - Addresses the strategic initiatives of the business
 - Meets the real technical demands of the software
 
