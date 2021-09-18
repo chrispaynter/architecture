@@ -54,11 +54,24 @@
 
 ### 4. A better user experience is gained
 
+- More expressive models lead to more expressive user experiences.
+- Moving away from CRUD, where users have to string together workflows themselves.
+
 ### 5. Clean boundaries are placed around pure models
 
 ### 6. Enterprise architecture is better organised
 
+- Enterprise architecture is easier to follow
+- Boundaries are explicit, as are the relationships between them
+
 ### 7. Agile, Iterative, Continous Modeling is Used
 
+- DDD is about refining the mental model of domain experts into a useful model for the business.
+- It's not about creating a real world model, as in trying to mimic reality.
+- The model is produced iteratively and incrementally.
+- It's refined continously until it's no longer needed by the business.
+
 ### 8. New tools, both strategic and tactical, are employed
+
+## The challenges of applying DDD
 
