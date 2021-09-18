@@ -110,5 +110,9 @@
 - If you are developing a BC as your chief business initiative, it is your core domain regardless of how it is viewed by customers outside the business
   - Despite the fact that it may actually be viewed as a **Generic Subdomain** or a **Supporting Subdomain** to them.
   - Therefore, strongly consider the use of tactical patterns.
-- 
+- If developing a Supporting Subdomain that cannot be acquired as a third-party Generic Subdomain, tactical patterns can benefit your efforts.
+  - Consider if the model is new, and if it is innovative.
+  - Consider the skill level of the team.
+  - If it's innovative, it adds specific business value, captures special knowledge, and is not just technically intriguing.
+  - If the team is capable of properly applying tactical design and the Supporting Subdomain is innovative and must endure for years in the feture, this is a good opportunity to invest in your software using tactical design.
 
