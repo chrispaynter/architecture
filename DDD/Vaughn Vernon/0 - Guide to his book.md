@@ -13,6 +13,10 @@
 - The UL is expressed in its carefully designed software model.
 - **Context Mapping** (CM) are used to show the relationships between BCs.
   - Integration relationships between BCs include Open Host Service, Published Language, Anticorruption Layer, Customer-Supplier Partnership, Conformist, Shared Kernal.
+- **Strategic design helps us to determine:** 
+  - what the most important software investments are to make.
+  - What existing software assets to leverage in order to get there faster and safest
+  - Who must be involved
 
 ## Architecture
 
