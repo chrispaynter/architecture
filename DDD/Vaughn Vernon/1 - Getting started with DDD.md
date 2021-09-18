@@ -90,6 +90,14 @@ DDD has some up-front costs of time and effort for the team, like any good high 
     - **⚠️ Over time this disconnect becomes costly.**
       - The translation of domain knowledge into software is lost as developers transition to other projects or leave the company.
 
+### How DDD helps
+
+DDD focuses on three primary aspects:
+
+- Brings domain expets and software developers together
+- Addresses the strategic initiatives of the business
+- Meets the real technical demands of the software
+
 ## Ubiquitous but not Universal
 
 - Ubiquitous is not a term to describe an enterprise-wide, company-wide or worldwide, universal domain language.
