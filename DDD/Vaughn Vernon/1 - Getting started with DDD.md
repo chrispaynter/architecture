@@ -87,8 +87,8 @@ DDD has some up-front costs of time and effort for the team, like any good high 
     - Even when engaging with domain experts, it's often only at the surface level.
     - The software that gets develop results in a translation layer between how the business thinks and how the developer interpreted that.
     - Result does not reflect the mental model of the domain experts, or perhaps only partially.
-    - Over time this disconnect becomes costly.
-    - 
+    - **⚠️ Over time this disconnect becomes costly.**
+      - The translation of domain knowledge into software is lost as developers transition to other projects or leave the company.
 
 ## Ubiquitous but not Universal
 
