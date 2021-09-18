@@ -47,6 +47,20 @@ You can implement DDD if you have:
 - With DDD, domain models tend to be smallish and very focused.
 - With DDD, you never try to model the whole business enterprise with a single, large domain model.
 
+## Why you should do DDD
+
+- **Put domain experts and developers on a level playing field.**
+  - Produces software that makes sense to the business, not just the coders.
+  - Cohesion.
+- **It's an investment into the business.**
+  - Software that's as close as possible to what the business leaders and experts would create if they were the coders.
+- **Teaches the business more about itself.**
+  - No single person is capable to know everything about the business.
+  - Constant discovery process, becomes more insightful over time.
+  - Everybody learns, because everybody contributes to discovery discussions.
+- **Centralizes knowledge**
+  - 
+
 ## Ubiquitous but not Universal
 
 - Ubiquitous is not a term to describe an enterprise-wide, company-wide or worldwide, universal domain language.
