@@ -72,7 +72,7 @@ You can implement DDD if you have:
     - what the most important software investments are to make.
     - What existing software assets to leverage in order to get there faster and safest
     - Who must be involved
-  - 
+  - Tactical design helps us craft the single elegant model of a solution using time-tested, proven software building blocks.
 
 ## Ubiquitous but not Universal
 
