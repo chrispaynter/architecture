@@ -33,4 +33,7 @@ There are three things you have to understand very clearly:
     - The **Bounded Context** *is a specific solution*, a realisation view, once developed.
     - The **Bounded Context** is used to realize a solution as software.
 - It's a desirable goal to align **Subdomains** one-to-one with **Bounded Contexts**.
+  - Expressly segregates domain models into well-defined areas of business by objective
+  - Melds the problem space with the solution space.
+  - Sometimes this is not possible in legacy systems, where **Subdomains** my interesect **Bounded Contexts**.
   - 
