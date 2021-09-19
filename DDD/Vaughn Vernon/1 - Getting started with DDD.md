@@ -120,6 +120,12 @@ DDD focuses on three primary aspects:
 
 ### Grappling with the complexity of your domain
 
+- Primarily want to use DDD in the areas that are most important to the business.
+- You don't invest in stuff that can be easily replaced.
+- *You invest in the nontrivial, more complex stuff, most valuable and impartant stuf that promises to return the greatest dividends.*
+  - That's why we call such a model **Core Domain**.
+  - It's these and the second priority significant **Supporting Subdomains** that deserve the biggest investment.
+
 **Use DDD to simplify, not to complicate**
 
 - Use DDD to model a complex domain in the simplest possible way.
