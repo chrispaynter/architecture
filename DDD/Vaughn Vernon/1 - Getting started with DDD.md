@@ -146,7 +146,8 @@ DDD focuses on three primary aspects:
 
 - Shared team language, 
 - It's not the model, though it will soon be represented in the source code.
-- I
+- *In the end it's team speech and the model in the code that are the most enduring and the only guaranteed current denotations of the Ubiquitous Language.* 
+- Be prepared to abandon drawings, glossaries and other docs that will be difficult to keep up-to-date with the UL.
 
 #### Ubiquitous but not Universal
 
