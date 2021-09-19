@@ -47,3 +47,4 @@ There are three things you have to understand very clearly:
   - Who should do the work in each area of the domain?
   - Can the right teams be assembled?
 - If we don't understand the vision and goals of the **Core Domain** and the areas of the Domain that are needed to support it, we won't be able to strategically take advantage of them and avoid associated pitfalls.
+- 
