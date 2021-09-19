@@ -9,4 +9,5 @@
 ## Other ways to do multitenancy
 
 - [Monoliths, Microservices and Multitenancy](https://blog.jacobsdata.com/2020/02/03/monoliths-microservices-and-multitenancy)
-
+- [Scaffold Your Clean DDD Web Application - Part 3: Persistence, Tenancy, and the Data Model](https://blog.jacobsdata.com/2020/09/25/scaffold-your-clean-ddd-web-application-part-3-persistence-tenancy-and-the-data-model)
+- 
