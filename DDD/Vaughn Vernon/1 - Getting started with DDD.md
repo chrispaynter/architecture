@@ -131,7 +131,24 @@ DDD focuses on three primary aspects:
 - Use DDD to model a complex domain in the simplest possible way.
 - Never use DDD to make your solution more complex.
 
-## Ubiquitous but not Universal
+## How to do DDD
+
+- **Ubiquitous Language** and **Bounded Context** are the two primary pillars of DDD's strengths.
+- One can't stand without the other.
+
+### Terms in a conext
+
+- Think of a BC as a conceptual boundary around a whole application or finite system.
+- The boundary highlights that every use of a given domain term, phrase or sentence (the UL) inside the boundary has specific contextual meaning.
+- Any use of the UL outside that boundary could, and probably does, mean something different.
+
+### Ubiquitous Language
+
+- Shared team language, 
+- It's not the model, though it will soon be represented in the source code.
+- I
+
+#### Ubiquitous but not Universal
 
 - Ubiquitous is not a term to describe an enterprise-wide, company-wide or worldwide, universal domain language.
 - Ther is one Ubiquitous Language per **Bounded Context**.
