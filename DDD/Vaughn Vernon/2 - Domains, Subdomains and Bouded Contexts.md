@@ -36,4 +36,14 @@ There are three things you have to understand very clearly:
   - Expressly segregates domain models into well-defined areas of business by objective
   - Melds the problem space with the solution space.
   - Sometimes this is not possible in legacy systems, where **Subdomains** my interesect **Bounded Contexts**.
-  - 
+
+### Assening the problem space and solution space
+
+- Before we can execute a specific solution, we need to make an assessment of the problem space and the solution space.
+- These questions should be answered in order to steer your project in the right direction.
+  - What is the name of and vision for the strategic **Core Domain**?
+  - What concepts should be considered part of the strategic **Core Domain**?
+  - What are the necessary **Supporting Subdomains** and the **Generic Subdomains**?
+  - Who should do the work in each area of the domain?
+  - Can the right teams be assembled?
+- If we don't understand the vision and goals of the **Core Domain** and the areas of the Domain that are needed to support it, we won't be able to strategically take advantage of them and avoid associated pitfalls.
