@@ -100,4 +100,16 @@
 - Holding a direct object association to an Aggregate that doesn not belong in the boundary of another has a few implications:
   - Both the referencing and the referenced Aggregate *must not* be modified in the same transaction. **Only one or the other may be modified in a single transaction.**
   - If you are modifying multiple instances in a single transaction, it may be a strong indication that your consistency boundaries are wrong.
-    - 
+- If you don't hold any reference, you can't modify another aggregate.
+  - So avoiding the object reference to start with can help avoid the temptation to include multiple aggregates in a single atomic transaction.
+
+### Making Aggregates Work Together through Identity References
+
+- 💡Prefer references to external Aggregates only by their globally unique identify, and not by holding a direct object reference ("pointer")
+  - The Aggregates with inferred object references are thus automatically smaller
+  - References are never eager loaded
+  - Less time to load, less memory.
+
+### Model Navigation
+
+- 
