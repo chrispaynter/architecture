@@ -232,7 +232,7 @@
 ### Optimistic Concurrency
 
 - Read the book
-- Interesting [ideas here](http://www.kamilgrzybek.com/design/handling-concurrency-aggregate-pattern-and-ef-core/).
+  - Interesting [ideas here](http://www.kamilgrzybek.com/design/handling-concurrency-aggregate-pattern-and-ef-core/).
 
 ### Avoid Dependency Injection
 
