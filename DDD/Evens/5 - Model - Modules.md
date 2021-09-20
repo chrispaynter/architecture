@@ -33,3 +33,7 @@
   - Refine the model till it partitions according to high-level domain concepts and the corresponding code is decoupled as well.
 - Give the MODULES names that become part of the UBIQUITOUS LANGUAGE
   - MODULES and their names should reflect insight into the domain.
+
+## Conclusion
+
+- Resist the temptation to add anything to the domain objects that does not closely relate to the concepts they represent.
