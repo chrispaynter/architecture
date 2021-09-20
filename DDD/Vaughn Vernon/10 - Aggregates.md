@@ -122,3 +122,9 @@
   - Again, no matter how you provider the referenced Aggregate, it doesn not mean both should be modified inside a single transaction. In fact, the referenced Aggregate should not be modified at all.
 - Holding just an identifier reference can make it harder to build views for UI purposes.
   - This is where CQRS can assist.
+
+### Scalability and Distribution
+
+- Since Aggregates don't use direct references to other Aggregates, but reference by identify, their persistent state can be moved around to reach large scale.
+- 💡Since there are always multiple Bounded Contexts in play in a given Core Domain, reference by identity allows distributed domain models to have associations from afar.
+  - When an Event-Driven approach is used, message-based Domain Events containing Aggregate identities are sent around the enterprise.
