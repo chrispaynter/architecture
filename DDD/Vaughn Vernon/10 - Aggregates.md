@@ -232,3 +232,11 @@
 ### Optimistic Concurrency
 
 - Read the book
+- Interesting [ideas here](http://www.kamilgrzybek.com/design/handling-concurrency-aggregate-pattern-and-ef-core/).
+
+### Avoid Dependency Injection
+
+- Dependency injection of a Repository or Domain Service into an Aggregate should generally be viewed as harmful.
+- The motivation may be to look up a dependent object instance from inside the Aggregate.
+  - Another Aggregate, or a number of them.
+  - 
