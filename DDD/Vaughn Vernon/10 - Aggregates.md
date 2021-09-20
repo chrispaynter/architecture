@@ -119,3 +119,4 @@
   - A client Application Service may control this, then dispatch to the aggregate.
   - 💡**For some very complex and domain-specific dependency resolutions, passing a Domain Service into an Aggregate command method can be the best way to go.** [ONE BASKET]
     - The aggregate can then *double-dispatch* to the Domain Service to resolve references.
+  - Again, no matter how you provider the referenced Aggregate, it doesn not mean both should be modified inside a single transaction. In fact, the referenced Aggregate should not be modified at all.
