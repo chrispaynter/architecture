@@ -231,4 +231,4 @@
 
 ### Optimistic Concurrency
 
-- 
+- Read the book
