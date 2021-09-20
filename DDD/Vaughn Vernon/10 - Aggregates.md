@@ -112,4 +112,8 @@
 
 ### Model Navigation
 
-- 
+- We obviously at times will still need to reference directly the related Aggregates.
+  - Some use a **Repository** directly inside an Aggregate for lookup. 
+    - This is not recommended, as reduces the "purity" of the model.
+  - 💡The recommended approach is to use a Repository or **Domain Service** to lookup the dependent objects ahead of invoking the Aggregate behaviour.
+  - A client Application Service may control this, then dispatch to the aggregate.
