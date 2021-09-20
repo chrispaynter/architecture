@@ -131,3 +131,21 @@
   - Message subscribers in foreign Bounded Contexts use the identities to carry out operations in their own domain models.
   - Reference by identity forms remote associtaions or *partners*
   - 💡Transactions across distributed systems are not atomic. The various systems bring multiple Aggregates into a consistent state eventually.
+
+## Rule: Use Eventual Consistency Outside the Boundary
+
+- > Any rule that spans AGGREGATES will not be expected to be up-to-date at all times. Through event processing, batch processing, or other update mechanisms, other dependencies can be resolved within some specific time. [Evans, p. 128]
+
+- This, if executing a command on on Aggregate instance requires that additional business rules execute on one or more other Aggregates, use eventual consistency.
+
+  - Accepting that all Aggregate instances in a large scale high traffic enterprise are never completely consistent helps us accept that eventual consistency also makes sense in the smaller scale where just a few instances are involved.
+
+- Ask domain experts if they can tolerate some time delay between the modification of one instance and the others involved
+
+  - Ofter they're willing for reasonable delays - generous number of seconds, minutes, hours, even days - before consistency occurs.
+
+- Domain Events are a way to support eventual consistency in DDD.
+
+  - The original aggregate being changed fires an event.
+  - Event is in time delivered to one or more asynchronous subscribers.
+  - Each subscriber then retrieves a different yet corresponding instance of the original aggregate and performs 
