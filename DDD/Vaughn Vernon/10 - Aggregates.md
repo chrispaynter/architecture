@@ -127,4 +127,7 @@
 
 - Since Aggregates don't use direct references to other Aggregates, but reference by identify, their persistent state can be moved around to reach large scale.
 - 💡Since there are always multiple Bounded Contexts in play in a given Core Domain, reference by identity allows distributed domain models to have associations from afar.
-  - When an Event-Driven approach is used, message-based Domain Events containing Aggregate identities are sent around the enterprise.
+  - **When an Event-Driven approach is used, message-based Domain Events containing Aggregate identities are sent around the enterprise.**
+  - Message subscribers in foreign Bounded Contexts use the identities to carry out operations in their own domain models.
+  - Reference by identity forms remote associtaions or *partners*
+  - 💡Transactions across distributed systems are not atomic. The various systems bring multiple Aggregates into a consistent state eventually.
