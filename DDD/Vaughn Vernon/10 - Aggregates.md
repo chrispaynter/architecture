@@ -198,4 +198,16 @@
 - It's also worth asking:
   - "How many items could this sub collection end up having?"
   - "How often does all this data need to be loaded"?
+  - "Would there typically be multiple client usage that causes concurrency contention on the data"
 - If you're loading a largish sub collection of items each time the Aggregate is loaded, but they're never needed, it could be a sign that they 
+
+#### Implementing Eventual Consistency
+
+- If it's deemed worth separating out an Entity as it's own Aggregate, and there is an existing invariant that needs to be maintained, then the need to deal with eventual consistency has arrived.
+  - The book has an example of a BackLogItem in a Jira like system
+  - BackLogItem aggregate contains Tasks
+  - The Tasks get factored out
+  - When all tasks are done, the BackLogItem status needs to be set to "Done"
+  - Task fire an event that triggers a listener
+  - The listener calls into a domain service that 
+- 
