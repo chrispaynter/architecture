@@ -12,6 +12,7 @@
     - Immediate and Atomic
   - **Eventual Consistency**
     - Not imediate
+    - Consistency is eventually reached via asynchronous processing
 - When we discuss invariants, we are talking about transaction consistency.
 
 ### Constency Boundary
