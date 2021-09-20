@@ -173,3 +173,6 @@
   - May be times when it's best to hold direct object references to other Aggregates.
   - Perhaps to ease Repository query performance issues.
   - Must be weighed carefully.
+
+## Gaining Insight through Discovery
+
