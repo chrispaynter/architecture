@@ -158,17 +158,17 @@
 ## Reasons to break the rules
 
 - When two allow multiple aggregate transactions
+- **Reason One: User Interface Convenience**
+	- Sometimes UI interfaces batch creation of aggregates
+	- If creating a batch of Aggregate instances all at once is semantically no different from creating one at a time repeatedly, it represents one reason to break the rule of thumb with impunity.
+- **Reason Two: Lack of Technical Mechanisms**
 
-### Reason One: User Interface Convenience
-
-- Sometimes UI interfaces batch creation of aggregates
-- If creating a batch of Aggregate instances all at once is semantically no different from creating one at a time repeatedly, it represents one reason to break the rule of thumb with impunity.
-
-### Reason Two: Lack of Technical Mechanisms
-
-- Eventual consistency requires the use of some kind of out-of-band processing capability
-  - Messaging, Timers or background hrteads
-- If the project you are working on has no provision for this, you might end up tempted to create a large-cluster Aggregate to compensate.
-- In this case, it is probably worth breaking the rule of thumb of one Aggregate per transaction.
-
-### Reason Th
+  - Eventual consistency requires the use of some kind of out-of-band processing capability
+    - Messaging, Timers or background hrteads
+  - If the project you are working on has no provision for this, you might end up tempted to create a large-cluster Aggregate to compensate.
+  - In this case, it is probably worth breaking the rule of thumb of one Aggregate per transaction.
+- **Reason Three: Global Transactions**
+- **Reason Four: Query Performance**
+  - May be times when it's best to hold direct object references to other Aggregates.
+  - Perhaps to ease Repository query performance issues.
+  - Must be weighed carefully.
