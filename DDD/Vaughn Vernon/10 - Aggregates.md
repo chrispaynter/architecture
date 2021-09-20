@@ -239,4 +239,5 @@
 - Dependency injection of a Repository or Domain Service into an Aggregate should generally be viewed as harmful.
 - The motivation may be to look up a dependent object instance from inside the Aggregate.
   - Another Aggregate, or a number of them.
-  - 
+  - https://stackoverflow.com/questions/5694241/ddd-the-rule-that-entities-cant-access-repositories-directly
+- 
