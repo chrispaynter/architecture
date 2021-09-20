@@ -152,4 +152,6 @@
   - Each subscriber performs in a separate transaction, obeying the rule to modify one instance only per transaction.
   - 💡If a subsriber fails for "reasons", then a retry process can attempt to fire it again.
   - 💡If complete failure happens, then it may be necessary to compensate, or at the least report the failure for pending intervention.
+  - 💡These techniques can be used within a single Bounded Context, but also can be used in a distributed fashion.
+    - Note - NServiceBus could be used in both situations.
 
