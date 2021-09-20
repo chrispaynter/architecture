@@ -176,3 +176,10 @@
 
 ## Gaining Insight through Discovery
 
+- There's a good fictional case study worth reading again and again in the book.
+- Focusing on small aggregates leads to the possibility of overdoing it.
+- Large cluster aggregates have potential performance risks
+  - Lots of data required, more memory used
+  - More SQL querying required (joins) to build the bigger aggregate.
+- Every time a large cluster is broken up, the possibility of an invariant becoming distributed across two types of aggregates becomes a possibility.
+- 
