@@ -217,3 +217,14 @@
 - Analysis can't continue all day.
 - There needs to be a decision.
 - Aim for choices that don't negate the possibility of going another route later.
+
+## Implementation
+
+- **Create a root with Unique Idenity**
+- **Favour Value Object Parts**
+  - Choose Value Objects over Entities whenever possible
+- **Using Law of Demeter and Tell, Don't Ask**
+  - Both these design principles stress information hiding.
+  - LOD
+    - Emphasises the *principle of least knowledge.*
+    - 
