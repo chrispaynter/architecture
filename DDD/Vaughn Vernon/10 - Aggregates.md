@@ -92,7 +92,12 @@
   - Often, the business case can be achieved with eventual consistency between Aggregates.
   - You may have to rewrite the use case, specifying the use of eventual consistency and the acceptable update delay.
 
-## Rule: Referenc Other Aggregates by Identity
+## Rule: Reference Other Aggregates by Identity
 
-- Even if you could guarantee a large cluster would succeed, a large cluster still limits performance and scalability.
-- The older an instance of a large aggreg
+- One Aggregate may hold reference to the Root of other Aggregates.
+  - Howevever, this doesn not place the referenced Aggregate *inside* the consistency boundary of the one referencing it.
+  - The reference doesn not cause the formation of just one whole Aggregate.
+- Holding a direct object association to an Aggregate that doesn not belong in the boundary of another has a few implications:
+  - Both the referencing and the referenced Aggregate *must not* be modified in the same transaction. **Only one or the other may be modified in a single transaction.**
+  - If you are modifying multiple instances in a single transaction, it may be a strong indication that your consistency boundaries are wrong.
+    - 
