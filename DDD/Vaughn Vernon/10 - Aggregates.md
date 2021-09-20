@@ -209,5 +209,11 @@
   - The Tasks get factored out
   - When all tasks are done, the BackLogItem status needs to be set to "Done"
   - Task fire an event that triggers a listener
-  - The listener calls into a domain service that 
-- 
+  - The listener calls into a domain service that figures out whether the BackLogItem should be set to done
+  - or something like that
+
+### Time for decisions
+
+- Analysis can't continue all day.
+- There needs to be a decision.
+- Aim for choices that don't negate the possibility of going another route later.
