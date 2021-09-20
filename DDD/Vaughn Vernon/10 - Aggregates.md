@@ -120,3 +120,5 @@
   - 💡**For some very complex and domain-specific dependency resolutions, passing a Domain Service into an Aggregate command method can be the best way to go.** [ONE BASKET]
     - The aggregate can then *double-dispatch* to the Domain Service to resolve references.
   - Again, no matter how you provider the referenced Aggregate, it doesn not mean both should be modified inside a single transaction. In fact, the referenced Aggregate should not be modified at all.
+- Holding just an identifier reference can make it harder to build views for UI purposes.
+  - This is where CQRS can assist.
