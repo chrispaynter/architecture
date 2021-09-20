@@ -117,3 +117,5 @@
     - This is not recommended, as reduces the "purity" of the model.
   - 💡The recommended approach is to use a Repository or **Domain Service** to lookup the dependent objects ahead of invoking the Aggregate behaviour.
   - A client Application Service may control this, then dispatch to the aggregate.
+  - 💡**For some very complex and domain-specific dependency resolutions, passing a Domain Service into an Aggregate command method can be the best way to go.** [ONE BASKET]
+    - The aggregate can then *double-dispatch* to the Domain Service to resolve references.
