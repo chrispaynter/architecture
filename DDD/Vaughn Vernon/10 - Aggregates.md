@@ -144,11 +144,12 @@
 
   - Ofter they're willing for reasonable delays - generous number of seconds, minutes, hours, even days - before consistency occurs.
 
-- Domain Events are a way to support eventual consistency in DDD.
+- **Domain Events are a way to support eventual consistency in DDD.**
 
   - The original aggregate being changed fires an event.
   - Event is in time delivered to one or more asynchronous subscribers.
   - Each subscriber then retrieves a different yet corresponding instance of the original aggregate and performs it's behaviour based on it.
   - Each subscriber performs in a separate transaction, obeying the rule to modify one instance only per transaction.
-  - If a subsriber fails for "reasons", then a retry process can attempt to fire it again.
-  - If complete failure happens, then it may be necessary to compensate, or at the least report the failure for pending intervention.
+  - 💡If a subsriber fails for "reasons", then a retry process can attempt to fire it again.
+  - 💡If complete failure happens, then it may be necessary to compensate, or at the least report the failure for pending intervention.
+
