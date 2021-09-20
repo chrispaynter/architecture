@@ -227,4 +227,8 @@
   - Both these design principles stress information hiding.
   - LOD
     - Emphasises the *principle of least knowledge.*
-    - 
+  - Tell, Don't Ask
+
+### Optimistic Concurrency
+
+- 
