@@ -177,9 +177,25 @@
 ## Gaining Insight through Discovery
 
 - There's a good fictional case study worth reading again and again in the book.
-- Focusing on small aggregates leads to the possibility of overdoing it.
+  - It runs through how the team determines the realities of the concerns below.
+
+### Rethinking the Design, Again
+
+- Focusing on small aggregates leads to the potential to overdo it.
+  - Questioning each invariant - "is it a true invariant"?
+  - Everytime we split the aggregate, we potentially get closer to needing to use eventual consistency
+    - As per the rule, one transaction per Aggregate
+- It's a balancing act of performance and scalability.
+
+#### Estimating Aggregate Cost
+
 - Large cluster aggregates have potential performance risks
   - Lots of data required, more memory used
   - More SQL querying required (joins) to build the bigger aggregate.
-- Every time a large cluster is broken up, the possibility of an invariant becoming distributed across two types of aggregates becomes a possibility.
-- 
+
+#### Common Usage Scenarios
+
+- It's also worth asking:
+  - "How many items could this sub collection end up having?"
+  - "How often does all this data need to be loaded"?
+- If you're loading a largish sub collection of items each time the Aggregate is loaded, but they're never needed, it could be a sign that they 
