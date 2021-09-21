@@ -136,7 +136,7 @@ DDD focuses on three primary aspects:
 - **Ubiquitous Language** and **Bounded Context** are the two primary pillars of DDD's strengths.
 - One can't stand without the other.
 
-### Terms in a conext
+### Terms in a context
 
 - Think of a BC as a conceptual boundary around a whole application or finite system.
 - The boundary highlights that every use of a given domain term, phrase or sentence (the UL) inside the boundary has specific contextual meaning.
