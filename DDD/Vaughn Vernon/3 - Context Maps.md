@@ -46,7 +46,11 @@ There are several DDD organisational and integration patterns. One of which comm
 - **Anticorruption Layer**
   - Translation layers can be simple and elegant when bridging well-designed Bounded Contexts with cooperative teams.
   - However, when control or communication is not adequate to pull of a shared kernal, partner or customer-supplier relationship, translation becomes more complex.
-  - As a downtr
+  - As a downstream client, create an isolating layer to provide your system with functionality of the upstream system 
+    - in terms of your own domain model.
+  - This layer talks to the other system through it's existing interface
+    - Requires little or no modification to the other system.
+  - Internally, the layer transates in one or both directions as necessary, between the two models.
 - Open Host Service
 - Published Language
 - Separate Ways
