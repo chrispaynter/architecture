@@ -50,6 +50,7 @@ Original DDD book points on modules
   - **💡 This approach will use the thinner boundary of Module to separate, rather than the thicker one of Bounded Context.**
 - Bounded Context's are not a substitute for Modules
 - Use Modules to modularize cohesive domain objects, and to separate those that are not cohesive or less cohesive.
+- Thus, Modules can be used to separate subdomains from the Core, without having to house them in their own external sub system.
 
 
 
