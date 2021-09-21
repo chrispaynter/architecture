@@ -21,6 +21,11 @@ There are three things you have to understand very clearly:
   - It's advantageous to think about each of those business functions separately.
 - Any attempt to model even a moderately sized organisation in a single model will likely fail.
 
+### Subdomains and Bounded Contexts at Work
+
+- Unfortunately, most systems today are not created by employing DDD approach
+  - Typical situation is we have fewer subsystems responsible for many business functions.
+
 ## Real-World Domains and Subdomains
 
 - Domains have both a ***problem space*** and a ***solution space***.
