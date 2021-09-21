@@ -55,7 +55,20 @@ There are several DDD organisational and integration patterns. One of which comm
   - Define a protocol that gives access to your subsystem as a set of services.
   - Open the protocol so that all who need to integrate with you can use it.
   - Enhance and expand the protocol to handle new integration requirements
-- Published Language
-- Separate Ways
-- Big Ball of Mud
+    - Though be cautious of idiosyncratic needs
+    - Use a one-off translator to augment the protocol for that special case
+    - Avoid complicating the shared protocol (keep it simple and coherent)
+- **Published Language**
+  - A shared language such as JSON
+  - Medium which data is transferred
+  - Used often with Open Host Service
+- **Separate Ways**
+  - Integration is always expensive, and sometimes the benefit is small.
+  - Declare a Bounded Context to have no connection to the others at all
+  - Enable developers to find simple, specialized solutions within this small scope.
+- **Big Ball of Mud**
+  - We mind find as we survey existing systems that there are ports where models are mixed and boundaries are inconsistent.
+  - Draw a boundary around the entire mess and declare it a Big Ball of Mud.
+  - Don't try any sophisticated modelling within this Context.
+  - Be alert to the tendency of such systems to spraws into other Contexts.
 
