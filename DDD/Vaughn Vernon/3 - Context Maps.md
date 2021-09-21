@@ -34,9 +34,19 @@ There are several DDD organisational and integration patterns. One of which comm
 - **Customer-Supplier Development**
   - When two teams are in an upstream/downstream relationship.
   - Upstream team may succeed interdepenently of the downstream team.
-  - 
-- Conformist
-- Anticorruption Layer
+  - Downstream team is dependent on the upstream team for developmental support.
+  - Downstream priorities factor into upstream planning.
+  - Budgeting and scheduling probably required.
+- **Conformist**
+  - When two teams are in an upstream/downstream relationship.
+  - Upstream team has no motivation to provide for the downstream team's needs.
+  - Downstream team is helpless.
+  - Promises my be made from altruism, but unlikely to be fulfilled.
+  - Downstream team eliminate complexity of translation by adhering slavishly to the upstream model.
+- **Anticorruption Layer**
+  - Translation layers can be simple and elegant when bridging well-designed Bounded Contexts with cooperative teams.
+  - However, when control or communication is not adequate to pull of a shared kernal, partner or customer-supplier relationship, translation becomes more complex.
+  - As a downtr
 - Open Host Service
 - Published Language
 - Separate Ways
