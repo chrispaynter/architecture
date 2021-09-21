@@ -16,5 +16,29 @@
 - You may hope for a **Customer-Supplier** relationship with the GBoM team.
   - However, turns out they only intend to provide what they have
   - Forces you into a **Conformist** relationship.
-- 
+
+## Projects and Organisational Relationship
+
+There are several DDD organisational and integration patterns. One of which commonly exists between any two Bounded Contexts.
+
+- **Partnership**
+  - When teams in two Contexts will succeed or fail together
+  - A cooperative relationship needs to emerge.
+- **Shared Kernal**
+  - Sharing part of the model and associated code forms a very intimate interdependency
+  - Can leverage design work or undermine it.
+  - Designate with an explicit boundary some subset of the domain model that the teams agree to share.
+  - Keep the kernal small.
+  - Kernal has special status, cannot change without consulting all teams.
+  - Align the teams around the Ubiquitous Language inside the kernal.
+- **Customer-Supplier Development**
+  - When two teams are in an upstream/downstream relationship.
+  - Upstream team may succeed interdepenently of the downstream team.
+  - 
+- Conformist
+- Anticorruption Layer
+- Open Host Service
+- Published Language
+- Separate Ways
+- Big Ball of Mud
 
