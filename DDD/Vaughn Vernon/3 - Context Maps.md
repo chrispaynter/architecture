@@ -53,7 +53,8 @@ There are several DDD organisational and integration patterns. One of which comm
   - Internally, the layer transates in one or both directions as necessary, between the two models.
 - **Open Host Service**
   - Define a protocol that gives access to your subsystem as a set of services.
-  - Open the protocol so that all who need to integrate with you can use it
+  - Open the protocol so that all who need to integrate with you can use it.
+  - Enhance and expand the protocol to handle new integration requirements
 - Published Language
 - Separate Ways
 - Big Ball of Mud
