@@ -19,6 +19,7 @@ There are three things you have to understand very clearly:
   - Doesn't matter the size of the organisation.
   - There are different functions that make business' successful
   - It's advantageous to think about each of those business functions separately.
+- Any attempt to model even a moderately sized organisation in a single model will likely fail.
 
 ## Real-World Domains and Subdomains
 
