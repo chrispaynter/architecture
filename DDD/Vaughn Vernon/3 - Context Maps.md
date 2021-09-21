@@ -12,4 +12,9 @@
   - For example, you may have to interface with a **Big Ball of Mud**.
   - The team maintaining it may not care what direction your project takes
   - As long as you adhere to their API
+- However, your map gives your team the insight into where inter-team communication is imperative.
+- You may hope for a **Customer-Supplier** relationship with the GBoM team.
+  - However, turns out they only intend to provide what they have
+  - Forces you into a **Conformist** relationship.
+- 
 
