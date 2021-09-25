@@ -87,3 +87,5 @@
   - You must **collect** sales tax from buyers in those nexus states. *(Note: You’ll want to ensure this is properly set up and automated within your ecommerce sales channels, marketplaces, or online shopping carts.)*
   - You must **report** the sales tax you have collected, **file** your sales tax returns, and make the required payments.
 
+## Are my products taxable?
+
