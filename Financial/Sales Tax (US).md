@@ -31,3 +31,8 @@
 - If you have nexus in a state that means your business is required to be compliant with that state’s sales tax rules and laws. 
 - **Your business is required to collect sales tax in the states you have nexus**.
 - You’ll also need to report and file taxes according to that state’s tax laws.
+
+## What factors determine sales tax nexus?
+
+- How do you know if you have nexus within a state? There are multiple considerations you need to be aware of.
+- 
