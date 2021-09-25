@@ -56,4 +56,5 @@
 
 #### Example of a location-based nexus
 
-- You operate in Florida. 
+- You operate in Florida. Office is there, warehouse is there.
+- 
