@@ -121,3 +121,8 @@
 #### Is gift wrapping taxable
 
 - State rules vary, but some states do consider gift-wrapping to be a taxable charge. You should be able to view and/or manage these settings in your online marketplace or shopping cart.
+
+## How does this impact a drop-shipping business?
+
+- Collecting sales tax gets even more complicated with the [dropshipping business model](https://www.shipmonk.com/blog/what-is-dropshipping-and-is-it-best-for-your-business). 
+- 
