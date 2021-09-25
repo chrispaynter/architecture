@@ -132,4 +132,4 @@
   3. The vendor ships the product to your buyer.
 - So the tax rules for this transaction will be based on where you, your customer, and your vendor are located and have sales tax nexus:
   - **If you have nexus in your customer’s state**, you’re required to charge sales tax to your customer.
-  - 
+  - **If your vendor has nexus in your state**, they’re required to charge you sales tax when you purchase from them. *Unless you give them a resale certificate showing that the item you purchased from them is for resale to your customer.*
