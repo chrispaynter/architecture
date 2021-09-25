@@ -26,3 +26,6 @@
   - Oregon
 
 ## What is sales tax nexus?
+
+- **Nexus** is a significant connection to or presence within a state. 
+- If you have nexus in a state that means your business is required to be compliant with that state’s sales tax rules and laws. 
