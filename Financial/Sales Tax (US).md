@@ -56,4 +56,4 @@
 
 #### Example of a location-based nexus
 
-- You
+- You operate in Florida. 
