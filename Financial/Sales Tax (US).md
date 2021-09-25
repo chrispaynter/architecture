@@ -72,4 +72,6 @@
 - If you sell above a certain amount of **revenue or transactions** within a state, then you are required to collect sales tax from customers in that state. 
 - As of now, about half of the states that impose sales tax have requirements based on whether your business exceeds a specific threshold of sales. 
   - More states will be following suit and will begin to pass updated economic nexus laws. 
-- 
+- Currently, the most common thresholds are:
+  - If you sell over **$100,000 in annual revenue** within a state; or
+  - If you sell over **200 transactions** within a state.
