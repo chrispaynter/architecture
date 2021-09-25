@@ -59,4 +59,6 @@
 - You operate in Florida. Office is there, warehouse is there.
 - No business presence in any other state.
   - If you ship to Florida, you must collect sales tax.
-  - If you ship to customers outside of Florida
+  - If you ship to customers outside of Florida, you don't need to collect sales tax.
+    - What about other countries?
+  - 
