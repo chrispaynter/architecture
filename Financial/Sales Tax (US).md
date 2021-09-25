@@ -40,4 +40,15 @@
 
 - Your business will have nexus **everywhere you have a business presence**, even if the presence is only temporary (such as an expo or trade show). 
 - This can include the location of your:
-  - 
+  - Home or office
+  - Brick-and-mortar stores
+  - Sales showrooms or sample rooms
+  - Headquarters or satellite offices
+  - Repair shops or places your products are altered
+  - Manufacturing or production facility
+  - Warehouse or inventory storage (such as a [3PL fulfillment center](https://www.shipmonk.com/))
+  - Employees, contractors, installers, or traveling sales representatives
+  - Affiliates
+  - Drop-shipping relationships or third-party distribution
+  - Events or trade shows you sell at
+- 
