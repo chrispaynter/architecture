@@ -61,4 +61,5 @@
   - If you ship to Florida, you must collect sales tax.
   - If you ship to customers outside of Florida, you don't need to collect sales tax.
     - What about other countries?
-- Business grows, and hires a 3PL
+- Business grows, and hires a third party fulfilment company in California and New York.
+  - Business now must collect sales tax on products shipped to those states as well.
