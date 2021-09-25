@@ -89,3 +89,5 @@
 
 ## Are my products taxable?
 
+- most tangible products are taxable in the U.S. if they are not considered necessities.
+- 
