@@ -4,7 +4,7 @@
 
 ## Resources
 
-- Global VAT Compliance
+- [Global VAT Compliance](https://www.globalvatcompliance.com)
 - [Shopify Location](https://help.shopify.com/en/manual/taxes/location)
 
 ## Location Based Taxes
