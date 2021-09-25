@@ -66,4 +66,5 @@
 
 ### Economic nexus
 
-- Your business wil
+- newer concept, largely inspired by the current landscape of e-commerce.
+- 
