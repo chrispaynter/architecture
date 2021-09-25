@@ -102,3 +102,6 @@
 
 #### destination-based sales tax sourcing
 
+- Most states use destination-based sales tax collection
+- you’ll need to charge the sales tax at the rate required by the state your buyer’s “ship to” address is located
+- 
