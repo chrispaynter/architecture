@@ -104,4 +104,5 @@
 
 - Most states use destination-based sales tax collection
 - you’ll need to charge the sales tax at the rate required by the state your buyer’s “ship to” address is located
+- This gets more complicated because you’ll need to charge the rates required by the state, county, city, and applicable local sales tax rates based on your buyer’s shipping address.
 - 
