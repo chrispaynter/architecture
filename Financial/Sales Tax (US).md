@@ -110,4 +110,5 @@
 
 ### Is shipping taxable?
 
-- 
+- Some states consider shipping fees to be a taxable component of the transaction
+  - 
