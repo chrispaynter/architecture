@@ -133,3 +133,24 @@
 - So the tax rules for this transaction will be based on where you, your customer, and your vendor are located and have sales tax nexus:
   - **If you have nexus in your customer’s state**, you’re required to charge sales tax to your customer.
   - **If your vendor has nexus in your state**, they’re required to charge you sales tax when you purchase from them. *Unless you give them a resale certificate showing that the item you purchased from them is for resale to your customer.*
+
+## Key takeaways about sales tax nexus:
+
+- Nexus is based on your business having either a physical connection or significant economic connection to a state.
+- You are required to collect sales tax from buyers whenever you ship a taxable item to a nexus state.
+- Nexus in any sales channel will apply to your entire business. You are required to collect sales tax from all buyers in your nexus states regardless of which sales channel the order originates from.
+- Sales taxes are governed at the state level, and they vary according to each state’s sales tax laws and rules.
+- Once you’ve determined that (1) your business has sales tax nexus in a state and (2) your products are taxable according to that state, then you’ll need to legally collect sales tax on sales to buyers in that state.
+- Be sure to register for a sales tax permit before you begin collecting sales tax from buyers. It is unlawful to collect sales tax from buyers if you do not have a valid sales tax permit in that state.
+- For e-commerce businesses, you’ll generally be collecting sales tax based on rates required for the “ship to” address.
+- You will likely need to set up the correct rates manually. Do not expect the tax settings to be set-up for you automatically by your online shopping cart or the online marketplaces you sell on.
+- Shipping charges and gift wrapping charges are considered taxable in some states. Be sure to set this up when you’re setting up sales tax collection rules in your online marketplace or shopping cart.
+- If you have nexus in multiple states, you may have different sales tax filing dates for each state.
+- Most states require you to report how much sales tax you collected by state as well as within each county, city, and applicable taxing district.
+- Always file early! Funds may take a few days to clear, which could result in late fines if they don’t clear by the deadline.
+- This can be a very time-consuming process depending on your sales volume, sales channels, and how many nexus states your business has.
+- File a sales tax return by the deadline every time, even if you didn’t collect any sales tax within that taxable period.
+- Some states offer sales tax discounts. Make sure to double check if this applies to you!
+- Dropshipping businesses face more complicated sales tax rules based on three parties: your business, your customer, and the vendor you dropship with. Speak to your drop-shipping vendor(s) to understand who will be responsible for collecting sales tax.
+- The Federation of Tax Authorities (FTA) lists all [state revenue departments and state taxing authorities](https://www.taxadmin.org/state-tax-agencies) on their website.
+- For information on your company’s unique tax needs, speak with a certified CPA or tax professional.
