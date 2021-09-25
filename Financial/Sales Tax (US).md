@@ -36,7 +36,7 @@
 
 - How do you know if you have nexus within a state? There are multiple considerations you need to be aware of.
 
-### **Location-based nexus**
+### Location-based nexus
 
 - Your business will have nexus **everywhere you have a business presence**, even if the presence is only temporary (such as an expo or trade show). 
 - This can include the location of your:
@@ -63,3 +63,7 @@
     - What about other countries?
 - Business grows, and hires a third party fulfilment company in California and New York.
   - Business now must collect sales tax on products shipped to those states as well.
+
+### Economic nexus
+
+- Your business wil
