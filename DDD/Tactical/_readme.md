@@ -1,0 +1,1 @@
+This folder contains specific ideas and guidelines for tactical design in DDD.
