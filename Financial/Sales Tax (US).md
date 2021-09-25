@@ -67,4 +67,6 @@
 ### Economic nexus
 
 - newer concept, largely inspired by the current landscape of e-commerce.
+- Applies when your business has a significant economic presence within a state, 
+  - the thresholds for which are based on state rules. 
 - 
