@@ -8,4 +8,5 @@
 
 ## What is sales tax?
 
-- A percant
+- A percentage of the total sales price of taxable goods and services.
+- 
