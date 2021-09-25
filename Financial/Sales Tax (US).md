@@ -82,4 +82,5 @@
 - There are multiple steps to ensuring your business is sales tax compliant:
   - You must determine **where** your business has sales tax nexus.
   - You must confirm whether some or all of your **products** are subject to sales tax.
+  - You must legally comply by **registering** for a sales tax permit in your nexus states.
   - 
