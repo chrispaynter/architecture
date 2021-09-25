@@ -9,5 +9,6 @@
 ## What is sales tax?
 
 - A percentage of the total sales price of taxable goods and services.
+- Sales taxes are imposed by states and local areas such as cities, counties, and other special taxing districts
 - There is no federal sales tax in the U.S.
 - Sales taxes are **consumption taxes**, which means they are charged in conjunction with a purchase of applicable products or services. 
