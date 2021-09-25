@@ -10,3 +10,4 @@
 
 - A percentage of the total sales price of taxable goods and services.
 - There is no federal sales tax in the U.S.
+- Sales taxes are **consumption taxes**, which means they are charged in conjunction with a purchase of applicable products or services. 
