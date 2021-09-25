@@ -8,3 +8,4 @@
 
 ## What is sales tax?
 
+- A percant
