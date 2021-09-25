@@ -125,6 +125,7 @@
 ## How does this impact a drop-shipping business?
 
 - Collecting sales tax gets even more complicated with the [dropshipping business model](https://www.shipmonk.com/blog/what-is-dropshipping-and-is-it-best-for-your-business). 
+- Let’s say your business sells graphic-printed tote bags, which are printed and shipped on demand by a third-party company.
 - **This dropshipping scenario requires three main components:** 
   1. Your customer purchases the product from you.
   2. You purchase the product from your vendor.
