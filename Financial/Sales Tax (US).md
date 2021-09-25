@@ -114,4 +114,6 @@
   - especially in e-commerce
 - In those states, you would be required to collect sales tax on the shipping fee charged to your customer. 
   - This means if a customer’s shopping cart total is $50 and they select a $15 shipping option, the taxable amount would be $65.
+- Some states do not consider shipping to be a taxable charge. 
+  - In that case, the customer would only be taxed on their $50 shopping cart total.
 - 
