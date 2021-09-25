@@ -94,4 +94,7 @@
 ### Origin-based vs. destination-based sales tax collection
 
 - Generally, states will require you to collect sales tax based on either origin or destination. This is also known as **sales tax sourcing**.
+
+#### Origin-based sales tax
+
 - 
