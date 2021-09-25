@@ -14,4 +14,5 @@
 - Sales taxes are **consumption taxes**, which means they are charged in conjunction with a purchase of applicable products or services. 
 - **Each state has its own sales tax rules and laws.** 
   - Thus, every state your business has nexus in will have its own set of rules and laws that you’ll need to ensure compliance with.
-- 
+- The rules of sales tax can vary significantly between states, including aspects such as:
+  - Which types of products and services are considered taxable;
