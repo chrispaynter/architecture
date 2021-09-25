@@ -1,5 +1,7 @@
 # Taxes
 
+[TOC]
+
 ## Resources
 
 - [Shopify Location](https://help.shopify.com/en/manual/taxes/location)
@@ -10,4 +12,5 @@
 
 ## Inclusion of taxes in product prices
 
-- 
+- In some countries, such as the United Kingdom, you need to include sales tax in the displayed prices for most types of merchandise.
+
