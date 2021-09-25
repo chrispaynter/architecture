@@ -108,3 +108,6 @@
 
 > Note: For e-commerce businesses, you’ll generally be collecting sales tax based on rates required for the “ship to” address.
 
+### Is shipping taxable?
+
+- 
