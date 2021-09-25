@@ -69,4 +69,5 @@
 - newer concept, largely inspired by the current landscape of e-commerce.
 - Applies when your business has a significant economic presence within a state, 
   - the thresholds for which are based on state rules. 
+- If you sell above a certain amount of **revenue or transactions** within a state, then you are required to collect sales tax from customers in that state. 
 - 
