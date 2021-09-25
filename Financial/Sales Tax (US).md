@@ -9,4 +9,4 @@
 ## What is sales tax?
 
 - A percentage of the total sales price of taxable goods and services.
-- 
+- There is no federal sales tax in the U.S.
