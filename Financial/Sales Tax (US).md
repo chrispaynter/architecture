@@ -97,4 +97,6 @@
 
 #### Origin-based sales tax
 
-- 
+- you’ll need to collect sales tax in the state your business is located in.
+- This means you would charge sales tax at the rate required by the state your business has a presence in (i.e. where your home, store, office, headquarters, or warehouse is located). 
+
