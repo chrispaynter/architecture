@@ -29,3 +29,5 @@
 
 - **Nexus** is a significant connection to or presence within a state. 
 - If you have nexus in a state that means your business is required to be compliant with that state’s sales tax rules and laws. 
+- **Your business is required to collect sales tax in the states you have nexus**.
+- 
