@@ -14,3 +14,5 @@
 
 - In some countries, such as the United Kingdom, you need to include sales tax in the displayed prices for most types of merchandise.
 
+## Include or exclude tax based on your customer's country
+
