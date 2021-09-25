@@ -24,4 +24,5 @@
   - Montana
   - New Hampshire
   - Oregon
-- 
+
+## What is sales tax nexus?
