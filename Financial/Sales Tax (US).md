@@ -35,4 +35,7 @@
 ## What factors determine sales tax nexus?
 
 - How do you know if you have nexus within a state? There are multiple considerations you need to be aware of.
+
+### **Location-based nexus**
+
 - 
