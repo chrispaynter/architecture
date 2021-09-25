@@ -77,4 +77,6 @@
   - If you sell over **200 transactions** within a state.
 - sales taxes laws and rules vary state by state. (We can’t stress this enough!)
 
- How can I ensure my business is sales tax compliant?
+## How can I ensure my business is sales tax compliant?
+
+- 
