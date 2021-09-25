@@ -51,4 +51,5 @@
   - Affiliates
   - Drop-shipping relationships or third-party distribution
   - Events or trade shows you sell at
-- 
+- **If you sell on Amazon via their** [**FBA services**](https://www.shipmonk.com/fulfillment-services/fba-prep-services)**, your business has nexus within every state where Amazon is storing your inventory.** 
+
