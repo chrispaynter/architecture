@@ -59,4 +59,4 @@
 - You operate in Florida. Office is there, warehouse is there.
 - No business presence in any other state.
   - If you ship to Florida, you must collect sales tax.
-  - If you ship 
+  - If you ship to customers outside of Florida
