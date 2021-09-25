@@ -79,4 +79,5 @@
 
 ## How can I ensure my business is sales tax compliant?
 
-- 
+- There are multiple steps to ensuring your business is sales tax compliant:
+  - 
