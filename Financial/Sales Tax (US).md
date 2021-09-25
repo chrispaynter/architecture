@@ -83,4 +83,5 @@
   - You must determine **where** your business has sales tax nexus.
   - You must confirm whether some or all of your **products** are subject to sales tax.
   - You must legally comply by **registering** for a sales tax permit in your nexus states.
+  - You must confirm whether other fees such as **shipping** and **gift wrapping** are subject to sales tax in your nexus states.
   - 
