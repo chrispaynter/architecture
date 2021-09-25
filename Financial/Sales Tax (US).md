@@ -70,4 +70,6 @@
 - Applies when your business has a significant economic presence within a state, 
   - the thresholds for which are based on state rules. 
 - If you sell above a certain amount of **revenue or transactions** within a state, then you are required to collect sales tax from customers in that state. 
+- As of now, about half of the states that impose sales tax have requirements based on whether your business exceeds a specific threshold of sales. 
+  - More states will be following suit and will begin to pass updated economic nexus laws. 
 - 
