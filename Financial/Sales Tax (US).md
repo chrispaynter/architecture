@@ -39,3 +39,5 @@
 ### **Location-based nexus**
 
 - Your business will have nexus **everywhere you have a business presence**, even if the presence is only temporary (such as an expo or trade show). 
+- This can include the location of your:
+  - 
