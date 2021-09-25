@@ -4,6 +4,7 @@
 
 ## Resources
 
+- [Shopify Manual on Taxes](https://help.shopify.com/en/manual/taxes)
 - [Shopify Location](https://help.shopify.com/en/manual/taxes/location)
 - [Sales Tax Guide for International eCommerce Companies](https://www.shipmonk.com/blog/sales-tax-guide-for-international-ecommerce-companies)
 
