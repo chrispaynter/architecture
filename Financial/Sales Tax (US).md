@@ -118,3 +118,6 @@
   - In that case, the customer would only be taxed on their $50 shopping cart total.
 - Either way, you should be able to view and/or manage these settings in your online marketplace or shopping cart.
 
+#### Is gift wrapping taxable
+
+- State rules vary, but some states do consider gift-wrapping to be a taxable charge. You should be able to view and/or manage these settings in your online marketplace or shopping cart.
