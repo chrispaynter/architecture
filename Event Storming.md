@@ -4,4 +4,5 @@
 
 - Triggers conversations across organisational boundaries.
 - Collaboration across multiple disciplines:
+  - Business experts
   - 
