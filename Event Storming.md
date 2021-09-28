@@ -34,7 +34,8 @@ Gather the best available brains for the job and collaboratively build a model o
 - Avoid focusing too deeply on individual sections.
 - Embrace the whole complexity and maximise learning.
 - **Knowledge and/or learning is the most valuable outcome.**
-- In order to discover the domain in-depth and precisely collect the Ubiquitous Language, we need to create a shared pool of business-knowledge
+- From "Big Picture Event Storming"
+  - In order to discover the domain in-depth and precisely collect the Ubiquitous Language, we need to create a shared pool of business-knowledge
 
 ### Design Level
 
