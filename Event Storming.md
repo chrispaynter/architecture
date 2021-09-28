@@ -7,6 +7,8 @@
 
 ## The Event Storming Approach
 
+Gather the best 
+
 - See the system as a whole.
 - Find a problem/s worth solving.
 - Gather the best immediately available information.
