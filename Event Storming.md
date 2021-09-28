@@ -18,6 +18,8 @@ Gather the best available brains for the job and collaboratively build a model o
 - Gather the best immediately available information.
 - Start implementing a solution from the best possible starting point.
 
+![img](https://miro.medium.com/max/1400/1*UahWpqNOu0pdlcuyoq9anQ.jpeg)
+
 ## Benefits
 
 - Triggers conversations across organisational boundaries.
