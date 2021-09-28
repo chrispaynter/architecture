@@ -66,7 +66,10 @@ There are others in the book.
 ## Time
 
 - depends on the size of the subdomain you’re going to storm
-- 
+- It’s very useful to run a day-long big-picture session for the first time in order to 
+  - understand the scope of your domain, 
+  - its’ complexity, and 
+  - the most challenging parts
 
 ### Phase: Chaotic Exploration
 
