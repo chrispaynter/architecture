@@ -50,6 +50,10 @@ Gather the best available brains for the job and collaboratively build a model o
 
 There are others in the book.
 
+## Time
+
+
+
 ## Process
 
 ![img](https://miro.medium.com/max/1400/1*UahWpqNOu0pdlcuyoq9anQ.jpeg)
