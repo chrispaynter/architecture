@@ -27,10 +27,10 @@ Gather the best available brains for the job and collaboratively build a model o
 
 ### Big Picture
 
-- Good for kicking off a project 
+- Good for kicking off a project.
 - with every stakeholder involved.
-- Avoid focusing too deeply on individual sections
-- Embrace the whole complexity 
+- Avoid focusing too deeply on individual sections.
+- Embrace the whole complexity and maximise learning.
 
 ### Design Level
 
