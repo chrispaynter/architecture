@@ -77,7 +77,10 @@ There are others in the book.
 
 The scenario of the technique is to assess the current state of business first, and then to discover the most effective areas for improvements. So keep focus on the current state of the business domain.
 
+To understand event storming let’s get familiar with the key artifacts:
 
+- Domain Events
+  - 
 
 ### Phase: Chaotic Exploration
 
