@@ -65,6 +65,7 @@ There are others in the book.
 
 ## Time
 
+- depends on the size of the subdomain you’re going to storm
 - 
 
 ### Phase: Chaotic Exploration
