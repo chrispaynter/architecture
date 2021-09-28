@@ -50,9 +50,13 @@ Gather the best available brains for the job and collaboratively build a model o
 
 There are others in the book.
 
+## Decide on boundaries
+
+- 
+
 ## Time
 
-
+Aoeu
 
 ## Process
 
