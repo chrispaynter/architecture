@@ -1,5 +1,10 @@
 # Event Storming
 
+## Resources
+
+- [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
+- 
+
 ## Benefits
 
 - Triggers conversations across organisational boundaries.
