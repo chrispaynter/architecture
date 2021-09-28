@@ -7,7 +7,7 @@
 
 ## The Event Storming Approach
 
-Gather the best 
+Gather the best available brains for the job, 
 
 - See the system as a whole.
 - Find a problem/s worth solving.
