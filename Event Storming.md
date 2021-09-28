@@ -27,7 +27,8 @@ Gather the best available brains for the job and collaboratively build a model o
 
 ### Big Picture
 
-- Good for kicking off a project with every stakeholder involved.
+- Good for kicking off a project 
+- with every stakeholder involved.
 
 ### Design Level
 
