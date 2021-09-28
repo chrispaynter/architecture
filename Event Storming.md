@@ -79,8 +79,12 @@ The scenario of the technique is to assess the current state of business first, 
 
 To understand event storming let’s get familiar with the key artifacts:
 
-- Domain Events
-  - 
+### Domain Events
+
+- any event that is important for your business and makes an explicit impact on it
+- 
+
+## Phases
 
 ### Phase: Chaotic Exploration
 
