@@ -17,8 +17,7 @@ Gather the best available brains for the job and collaboratively build a model o
 - Find a problem/s worth solving.
 - Gather the best immediately available information.
 - Start implementing a solution from the best possible starting point.
-
-![img](https://miro.medium.com/max/1400/1*UahWpqNOu0pdlcuyoq9anQ.jpeg)
+- 
 
 ## Benefits
 
@@ -52,6 +51,8 @@ Gather the best available brains for the job and collaboratively build a model o
 There are others in the book.
 
 ## Process
+
+![img](https://miro.medium.com/max/1400/1*UahWpqNOu0pdlcuyoq9anQ.jpeg)
 
 ### Phase: Chaotic Exploration
 
