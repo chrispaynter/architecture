@@ -26,7 +26,9 @@ Gather the best available brains for the job and collaboratively build a model o
 
 ## Possible formats of Event Storming
 
-- 
+### Big Picture
+
+
 
 ## Process
 
