@@ -16,6 +16,8 @@
 - Orange sticky note
 - mostly relevant for domain experts
 
+<img src="/Users/chrispaynter/Library/Application Support/typora-user-images/image-20210928201257680.png" alt="image-20210928201257680" style="zoom:30%; float:left;" />
+
 ### Phase: Enforcing the timeline
 
 - Make sure enough space available
