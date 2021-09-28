@@ -31,7 +31,8 @@ Gather the best available brains for the job and collaboratively build a model o
 - with every stakeholder involved.
 - Avoid focusing too deeply on individual sections.
 - Embrace the whole complexity and maximise learning.
-- Knowledge and/or learning 
+- **Knowledge and/or learning is the most valuable outcome.**
+- 
 
 ### Design Level
 
