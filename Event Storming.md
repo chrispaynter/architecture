@@ -90,7 +90,8 @@ To understand event storming let’s get familiar with the key artifacts:
 
 - facilitator usually makes the first step by sticking *pivotal events*
   - These emphasize the major happenings in the business from end-to-end.
-- 
+
+![img](https://miro.medium.com/max/1400/0*VzK1AGzhkIc4Zl-J)
 
 ## Phases
 
