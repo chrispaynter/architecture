@@ -70,6 +70,8 @@ There are others in the book.
   - understand the scope of your domain, 
   - its’ complexity, and 
   - the most challenging parts
+- For the future stormings, where you may focus on specific subdomains and discover particular problems
+  - 2-3 hours-long sessions with a short break in the middle could be optimal.
 
 ### Phase: Chaotic Exploration
 
