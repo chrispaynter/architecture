@@ -86,7 +86,9 @@ To understand event storming let’s get familiar with the key artifacts:
 - The event could happen inside or outside your business system. 
 - *Orange* sticky note
 
+### Pivotal Events
 
+- 
 
 ## Phases
 
