@@ -2,11 +2,9 @@
 
 ## Resources
 
-- 
+- Introducing Event Storming book
 - [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
 - [Event Storming demo & discussion](https://www.youtube.com/watch?v=xIB_VQVVWKk)
-
-
 
 ## The Event Storming Approach
 
