@@ -35,7 +35,7 @@ Gather the best available brains for the job and collaboratively build a model o
 - Embrace the whole complexity and maximise learning.
 - **Knowledge and/or learning is the most valuable outcome.**
 - From "[Big Picture Event Storming](https://medium.com/@chatuev/big-picture-event-storming-7a1fe18ffabb)"
-  - 
+  - In my experience, in order to utilize DDD efficiently, it is better to start with domain discovery, knowledge sharing, and collecting the UL
   - In order to discover the domain in-depth and precisely collect the Ubiquitous Language, we need to create a shared pool of business-knowledge
 
 ### Design Level
