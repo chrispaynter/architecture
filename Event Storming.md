@@ -7,10 +7,10 @@
 
 ## The Event Storming Approach
 
-- See the system as a whole
-- Find a problem worth solving
-- Gather the best immediately available information
-- 
+- See the system as a whole.
+- Find a problem worth solving.
+- Gather the best immediately available information.
+- Start implementing a solution from the best possible starting point.
 
 ## Benefits
 
