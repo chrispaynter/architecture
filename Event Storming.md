@@ -32,6 +32,7 @@ Gather the best available brains for the job and collaboratively build a model o
 
 ### Design Level
 
+- Digs into possible implementation
 - 
 
 ## Process
