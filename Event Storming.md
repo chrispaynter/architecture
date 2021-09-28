@@ -37,7 +37,7 @@ Gather the best available brains for the job and collaboratively build a model o
 - Digs into possible implementation
 - Often DDD-CQRS/ES style
 - Fewer, selected people.
-- The focus is on implementing software features 
+  - The focus is on implementing software features that are solving 
 
 There are others in the book.
 
