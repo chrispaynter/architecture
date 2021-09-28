@@ -9,6 +9,7 @@
 
 - See the system as a whole
 - Find a problem worth solving
+- Gather the best immediately available information
 - 
 
 ## Benefits
