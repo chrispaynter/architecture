@@ -52,7 +52,7 @@ There are others in the book.
 
 ## Decide on boundaries
 
-- 
+- Decide on 
 
 ## Time
 
