@@ -23,6 +23,8 @@
 - Make sure enough space available
 - Choose one or a combination of sorting strategies from below
 
+<img src="/Users/chrispaynter/Library/Application Support/typora-user-images/image-20210928201352340.png" alt="image-20210928201352340" style="zoom:33%; float:left;" />
+
 #### Pivotal Events
 
 #### Swimlanes
