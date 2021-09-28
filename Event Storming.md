@@ -50,9 +50,12 @@ Gather the best available brains for the job and collaboratively build a model o
 
 There are others in the book.
 
+# How to Event Storm
+
 ## Decide on boundaries
 
-- Decide on 
+- Decide on the boundaries of the business domain you’re gonna discover. 
+- 
 
 ## Time
 
