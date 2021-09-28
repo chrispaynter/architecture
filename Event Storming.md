@@ -82,7 +82,7 @@ To understand event storming let’s get familiar with the key artifacts:
 ### Domain Events
 
 - any event that is important for your business and makes an explicit impact on it
-- 
+- The event could happen inside or outside your business system. 
 
 ## Phases
 
