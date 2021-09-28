@@ -7,7 +7,9 @@
 
 ## The Event Storming Approach
 
-
+- See the system as a whole
+- Find a problem worth solving
+- 
 
 ## Benefits
 
