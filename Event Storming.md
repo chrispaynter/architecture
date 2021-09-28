@@ -6,7 +6,7 @@
 - [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
 - [Event Storming demo & discussion](https://www.youtube.com/watch?v=xIB_VQVVWKk)
 - [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 2018](https://www.youtube.com/watch?v=WvkBKvMnyuc)
-- Trying out online EventStorming
+- [Trying out online EventStorming](https://www.youtube.com/watch?v=CbPEibNUe0s)
 
 ## The Event Storming Approach
 
