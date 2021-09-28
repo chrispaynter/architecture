@@ -30,7 +30,7 @@ Gather the best available brains for the job and collaboratively build a model o
 - Good for kicking off a project 
 - with every stakeholder involved.
 - Avoid focusing too deeply on individual sections
-  - 
+- Embrace the whole complexity 
 
 ### Design Level
 
