@@ -73,6 +73,8 @@ There are others in the book.
 - For the future stormings, where you may focus on specific subdomains and discover particular problems
   - 2-3 hours-long sessions with a short break in the middle could be optimal.
 
+
+
 ### Phase: Chaotic Exploration
 
 - Domain events (past tense) - `Product added to cart`
