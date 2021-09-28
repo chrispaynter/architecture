@@ -88,7 +88,8 @@ To understand event storming let’s get familiar with the key artifacts:
 
 ### Pivotal Events
 
-- 
+- facilitator usually makes the first step by sticking *pivotal events*
+  - 
 
 ## Phases
 
