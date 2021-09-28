@@ -55,8 +55,9 @@ There are others in the book.
 ## Decide on boundaries
 
 - Decide on the boundaries of the business domain you’re gonna discover. 
-- On a Big picture event storming, you may tackle the whole business, or narrow down your focus to specific subdomains. 
-- 
+- On a Big picture event storming, you may tackle the whole business, 
+  - or narrow down your focus to specific subdomains. 
+- Understanding the scale will help you to define the invitee list.
 
 ## Time
 
