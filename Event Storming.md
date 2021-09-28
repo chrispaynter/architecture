@@ -73,6 +73,10 @@ There are others in the book.
 - For the future stormings, where you may focus on specific subdomains and discover particular problems
   - 2-3 hours-long sessions with a short break in the middle could be optimal.
 
+## Getting Started
+
+The scenario of the technique is to assess the current state of business first, and then to discover the most effective areas for improvements. So keep focus on the current state of the business domain.
+
 
 
 ### Phase: Chaotic Exploration
