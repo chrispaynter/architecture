@@ -5,6 +5,10 @@
 - [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
 - [Event Storming demo & discussion](https://www.youtube.com/watch?v=xIB_VQVVWKk)
 
+## Types 
+
+Gather the best available brains for the job and collabo
+
 ## The Event Storming Approach
 
 Gather the best available brains for the job and collaboratively build a model of a very complex problem space.
