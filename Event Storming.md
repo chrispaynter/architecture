@@ -7,6 +7,7 @@
 - [Event Storming demo & discussion](https://www.youtube.com/watch?v=xIB_VQVVWKk)
 - [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 2018](https://www.youtube.com/watch?v=WvkBKvMnyuc)
 - [Trying out online EventStorming](https://www.youtube.com/watch?v=CbPEibNUe0s)
+- [Big Picture Event Storming](https://medium.com/@chatuev/big-picture-event-storming-7a1fe18ffabb)
 
 ## The Event Storming Approach
 
