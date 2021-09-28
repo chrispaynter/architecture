@@ -59,13 +59,13 @@ There are others in the book.
   - or narrow down your focus to specific subdomains. 
 - Understanding the scale will help you to define the invitee list.
 
-## Time
-
-Aoeu
-
-## Process
+## Preparation
 
 ![img](https://miro.medium.com/max/1400/1*UahWpqNOu0pdlcuyoq9anQ.jpeg)
+
+## Time
+
+- 
 
 ### Phase: Chaotic Exploration
 
