@@ -2,6 +2,7 @@
 
 ## Resources
 
+- 
 - [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d)
 - [Event Storming demo & discussion](https://www.youtube.com/watch?v=xIB_VQVVWKk)
 
@@ -34,6 +35,8 @@ Gather the best available brains for the job and collaboratively build a model o
 
 - Digs into possible implementation
 - Often DDD-CQRS/ES style
+
+There are others in the book.
 
 ## Process
 
