@@ -8,4 +8,5 @@
 
 ## Benefits of Bounded Contexts
 
-- 
+- There are many technical benefits:
+  - 
