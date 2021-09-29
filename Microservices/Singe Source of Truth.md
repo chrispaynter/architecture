@@ -1,5 +1,9 @@
 # Single Source of Truth
 
+## Resources
+
+- The Truth About Your Source of Truth
+
 - We often try to keep data (i.e our Domain entities) owned and available from a single source of truth.
   - Common wisdom has it that every domain entity in our enterprise should live in exactly one centralized location. 
   - If you want to fetch an instance of that entity, you go to that location.
