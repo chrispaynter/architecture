@@ -26,7 +26,7 @@
 
   - they own the entire lifecycle of their code, from design and development, to deployment, to production monitoring.
 
-  - > Enforcing a single source of truth for our domain entities sabotages those benefits.
+  - > Enforcing a **single source of truth** for our domain entities sabotages those benefits.
 
 ### 
 
