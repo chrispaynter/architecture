@@ -14,4 +14,5 @@
   - Decoupling
 - ["The true benefits are organisational"](https://betterprogramming.pub/the-truth-about-your-source-of-truth-a1eb833c2d70)
   - Teams have the control and responsibility over their own projects.
+  - They can make as many changes to their code as they want to, with little fear of breaking other teams.
   - 
