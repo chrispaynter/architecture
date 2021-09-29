@@ -8,6 +8,8 @@
 - The team builds, deploys, and maintains the services and applications that it needs to get its job done
   - with minimal dependencies on any other teams.
 
+## 
+
 - There are many technical benefits:
 
   - Separation of concerns
