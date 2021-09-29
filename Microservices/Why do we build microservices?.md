@@ -8,15 +8,15 @@
 - The team builds, deploys, and maintains the services and applications that it needs to get its job done
   - with minimal dependencies on any other teams.
 
-## 
+## Most fundamental benefit of bounded contexts
 
-- There are many technical benefits:
+- There are many technical benefits that could be rattled off:
 
   - Separation of concerns
   - Continous Deployment
   - Decoupling
 
-- ["The true benefits are organisational"](https://betterprogramming.pub/the-truth-about-your-source-of-truth-a1eb833c2d70)
+- Howevere, ["The true benefits are organisational"](https://betterprogramming.pub/the-truth-about-your-source-of-truth-a1eb833c2d70)
 
   - Teams have the control and responsibility over their own projects.
 
