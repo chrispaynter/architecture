@@ -2,7 +2,8 @@
 
 ## First, the bounded context
 
-- 
+- the general idea is that each business domain should be thought of as its own self-contained system 
+  - with judiciously-designed inputs and outputs.
 
 - There are many technical benefits:
 
