@@ -8,5 +8,5 @@
 
 ## What's wrong with single source of truth
 
-- 
+- single sources of truth reestablish dependencies across teams and across bounded contexts
 
