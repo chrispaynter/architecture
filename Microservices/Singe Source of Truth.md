@@ -9,5 +9,5 @@
 ## What's wrong with single source of truth
 
 - Single sources of truth **reestablish dependencies** across teams and across bounded contexts
-- 
+  - They force teams to break out of their bounded context to perform work.
 
