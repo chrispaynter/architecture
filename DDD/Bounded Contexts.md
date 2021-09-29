@@ -6,4 +6,3 @@
   - This contains a nice top level overview of peeling away microservices from a monolith.
   - ![img](https://miro.medium.com/max/1400/1*r2Y9wky92C4zgzzAC9_IvQ.png)
 
-### 
