@@ -30,5 +30,5 @@
 
 ## Single Source of Truth
 
-- We often try to keep data owned and available from a single source of truth.
+- We often try to keep data (i.e our Domain entities) owned and available from a single source of truth.
 - 
