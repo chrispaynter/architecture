@@ -1,5 +1,9 @@
 # Why do we build microservices
 
+## First, the bounded context
+
+- 
+
 - There are many technical benefits:
 
   - Separation of concerns
