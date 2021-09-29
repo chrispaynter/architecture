@@ -12,5 +12,5 @@
   - Separation of concerns
   - Continous Deployment
   - Decoupling
-- "The true benefits are organisational"
+- ["The true benefits are organisational"](https://betterprogramming.pub/the-truth-about-your-source-of-truth-a1eb833c2d70)
   - 
