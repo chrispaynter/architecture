@@ -2,8 +2,11 @@
 
 ## First, the bounded context
 
-- the general idea is that each business domain should be thought of as its own self-contained system 
+- General idea is each business domain is thought of as its own self-contained system 
   - with judiciously-designed inputs and outputs.
+- From an organizational standpoint, each bounded context is owned by a single, cross-functional team. 
+- The team builds, deploys, and maintains the services and applications that it needs to get its job done
+  - with minimal dependencies on any other teams.
 
 - There are many technical benefits:
 
