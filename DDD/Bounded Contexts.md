@@ -28,5 +28,7 @@
 
   - > Enforcing a single source of truth for our domain entities sabotages those benefits.
 
-## Issues with Single Source of Truth
+## Single Source of Truth
 
+- We often try to keep data owned and available from a single source of truth.
+- 
