@@ -9,4 +9,7 @@
 ## Benefits of Bounded Contexts
 
 - There are many technical benefits:
-  - 
+  - Separation of concerns
+  - Continous Deployment
+  - Decoupling
+- 
