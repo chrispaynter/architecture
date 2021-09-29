@@ -2,7 +2,7 @@
 
 ## Resources
 
-- The Truth About Your Source of Truth
+- [The Truth About Your Source of Truth](https://betterprogramming.pub/the-truth-about-your-source-of-truth-a1eb833c2d70)
 
 - We often try to keep data (i.e our Domain entities) owned and available from a single source of truth.
   - Common wisdom has it that every domain entity in our enterprise should live in exactly one centralized location. 
