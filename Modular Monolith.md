@@ -16,7 +16,7 @@
 
 - You are likely not at Uber on Netflix scale
 
-> Design as 
+> Design as **Microservices**, build as **Modules**.
 
 ## Comparison
 
