@@ -19,6 +19,7 @@
 ## Benifits of Modules
 
 - Ease of deployment and management
+- Strong but refactorable boundaries
 - 
 
 ## Modular Monolith vs. Microservices
