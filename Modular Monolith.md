@@ -21,6 +21,7 @@
 - Ease of deployment and management
 - Strong but refactorable boundaries
 - Strongly typed, in process communication
+  - No serialization or network latency
   - 
 
 ## Modular Monolith vs. Microservices
