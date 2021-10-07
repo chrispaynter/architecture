@@ -12,6 +12,10 @@
 - [Modular Monoliths With ASP.NET Core - Pragmatic Architecture](https://www.thinktecture.com/en/asp-net/modular-monolith/)
 - [Modules or Microservices? - Sander Mak](https://www.youtube.com/watch?v=AJW2FAJGgVw)
 
+## Don't solve problems you don't have
+
+- 
+
 ## Comparison
 
 <img src="/Users/chrispaynter/Library/Application Support/typora-user-images/image-20211007090206655.png" alt="image-20211007090206655" style="zoom:50%;" />
