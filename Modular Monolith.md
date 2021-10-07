@@ -16,6 +16,11 @@
 
 <img src="/Users/chrispaynter/Library/Application Support/typora-user-images/image-20211007090206655.png" alt="image-20211007090206655" style="zoom:50%;" />
 
+## Benifits of Modules
+
+- Ease of deployment and management
+- 
+
 ## Modular Monolith vs. Microservices
 
 - Monoliths have one deployment unit
