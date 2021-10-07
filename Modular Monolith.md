@@ -14,7 +14,7 @@
 
 ## Don't solve problems you don't have
 
-- 
+- You are 
 
 ## Comparison
 
