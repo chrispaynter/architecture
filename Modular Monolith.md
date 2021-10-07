@@ -23,6 +23,8 @@
 - Strongly typed, in process communication
   - No serialization or network latency
   - Synchronous communication
+- Eventual consistency is a choice
+  - It's still good to partition data
   - 
 
 ## Modular Monolith vs. Microservices
