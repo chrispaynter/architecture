@@ -22,6 +22,7 @@
 - Strong but refactorable boundaries
 - Strongly typed, in process communication
   - No serialization or network latency
+  - Synchronous communication
   - 
 
 ## Modular Monolith vs. Microservices
