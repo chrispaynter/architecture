@@ -20,7 +20,8 @@
 
 - Ease of deployment and management
 - Strong but refactorable boundaries
-- 
+- Strongly typed, in process communication
+  - 
 
 ## Modular Monolith vs. Microservices
 
