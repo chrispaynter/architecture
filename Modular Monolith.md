@@ -25,6 +25,7 @@
   - Synchronous communication
 - Eventual consistency is a choice
   - It's still good to partition data
+- Explicit dependencies
   - 
 
 ## Modular Monolith vs. Microservices
