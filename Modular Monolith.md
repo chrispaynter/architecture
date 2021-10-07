@@ -15,7 +15,8 @@
 ## Don't solve problems you don't have
 
 - You are likely not at Uber on Netflix scale
-- 
+
+> Design as 
 
 ## Comparison
 
