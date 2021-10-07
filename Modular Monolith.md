@@ -14,7 +14,8 @@
 
 ## Don't solve problems you don't have
 
-- You are 
+- You are likely not at Uber on Netflix scale
+- 
 
 ## Comparison
 
