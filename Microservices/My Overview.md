@@ -61,6 +61,10 @@
 - **Component A** waits for a response from **Component B** before continue to execute
 - Component A explicitly knows of **Component B**
 - **Component B** may or may not know explicitly of **Component A**
+- Example technologies
+  - REST over HTTP (Sync)
+  - Queue-Based Brokers (Async)
+  - RPC
 
 ### Event-Driven (Async)
 
@@ -72,15 +76,18 @@
   - It listens for the event and reacts accordingly when it occurs.
 - None of the components need to know about each other.
 - They only need to know what events can occur in the system, so they can react accordingly.
+- Example technologies
+  - Topic-Based Brokers
+  - REST over HTTP i.e Atom
 
 ### Common Data (Async)
 
-- Data is shared between two components by way of
-  - File system
-  - Database
 - **Component A** has new data, and places it in a CSV file on a shared drive.
 - **Component B** periodically checks this shared drive for new data.
 - Neither service needs to know anything about each other.
+- Example technologies
+  - File system
+  - Database
 
 # Sharing Code
 
