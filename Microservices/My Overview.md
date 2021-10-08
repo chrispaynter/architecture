@@ -9,9 +9,9 @@
 
 # Communication
 
-## In-process vs Intra-process
+## In-process Communication
 
-
+- Two software components running inside the same process can communicate
 
 # Sharing Code
 
