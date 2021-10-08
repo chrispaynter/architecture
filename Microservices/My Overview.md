@@ -47,12 +47,11 @@
 ### Asynchronous Communication (Non-Blocking)
 
 - **Component A** needs to communicate with **Component B**
-
 - **Component A** does not need to wait for **Component B** to complete
-
-- Component A may or may not be expect
-
-  
+- **Component A** may or may not be expecting a response from **Component B**
+  - **Component A** can therefore continue executing OR
+  - **Component A** can wait until **Component B** has finished executing.
+- **Component B** may take seconds, minutes, hours, days, years to complete
 
 ## Patterns
 
