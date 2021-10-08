@@ -16,6 +16,21 @@ This is an attempt to aggregate information about both architectural styles in a
 - We can apply the same approach to designing modules as we do with microservices.
 - After all, in DDD speak, they're esentially bounded contexts.
 - However, applying the same principles to modules can challenge existing thinking and practice.
+  - Database schema per module
+
+### Module boundaries are harder to keep closed (C#)
+
+- Information hiding is hard in modules that are made of multiple assemblies
+- The "internal" assemblies of the module need to expose key internal pieces via `public` modifiers.
+- Most of these should not be accesible outside the boundary of the module
+- However, due to the way packaging works in C#, it's possible for outside code to reference  these pieces.
+- Ideally, outside code can only reference certain "use case" types from an "outside facing" assembly.
+
+#### Work arounds
+
+- One work around might be to just use one assembly
+- However, this means that internal layers are now based on filesystem folders, instead of assemblies.
+- Creates more opportunity for circular dependencies and loss of information hiding internally in the module itself.
 
 # Communication
 
