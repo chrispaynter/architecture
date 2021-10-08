@@ -170,6 +170,13 @@ This is an attempt to aggregate information about both architectural styles in a
 
 ## Central Aggregating Gateway
 
+### Benefits
+
+- Decoupling of clients from individual "microservices". 
+- Reduction of round trips from multiple services to build a workflow / screen 
+- Centralised security handling - "microservices" are free from having to be concerned with access level security 
+- Other cross cutting handled.
+
 ### Challenges
 
 - The gateway tier is coupled with the internal microservices. 
