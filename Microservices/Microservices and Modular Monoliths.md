@@ -190,7 +190,16 @@ This is an attempt to aggregate information about both architectural styles in a
 - Gateway can become a bottleneck if not scaled properly. 
 - As system grows, if gateway is owned by a single team, it can become a bottleneck for other teams who are changing services and need chagnes in the gateway.
 
+![Microservices _ Modular Monoliths - CAG (MS)](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - CAG (MS).png)
+
+![Microservices _ Modular Monoliths - CAG (Monolith)](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - CAG (Monolith).png)
+
+
+
 ## Backend For Frontend (BFF)
 
+### What is it
 
+- Creation of multiple built for purpose APIs that suit the requirements of individual clients.
+- A useful approach when a One Size Fits All approach no longer works
 
