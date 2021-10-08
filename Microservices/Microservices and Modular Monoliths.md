@@ -203,3 +203,8 @@ This is an attempt to aggregate information about both architectural styles in a
 - Creation of multiple built for purpose APIs that suit the requirements of individual clients.
 - A useful approach when a One Size Fits All approach no longer works
 
+
+
+
+
+![Microservices _ Modular Monoliths - BFF (Monolith)](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - BFF (Monolith).png)
