@@ -127,6 +127,29 @@ This is an attempt to aggregate information about both architectural styles in a
 
 ## Communicating across boundaries
 
+- Communication inside a system occurs across both
+  - Logical boundaries
+  - Technical boundaries
+
+### Service Boundaries (Logical)
+
+- Each service or module is defined by a boundary
+- In DDD speak this is a "Bounded Context"
+- This is a logic boundary that wraps a cohesive sub system of business functions
+
+### Process Boundaries (Technical)
+
+- This is a process boundary.
+- Inside the boundary is a single deployable unit
+  - In other words, an application
+- In microservices, it wraps a single service
+  - Therefore, a deployment unit is composed of a single services
+- In modular monoliths, it can wrap one or more services.
+  - Therefore, a deployment unit is composed of multiple services.
+- Communications inside a 
+
+
+
 - Component A and Component B represented as:
   - Modules in a modular monolith 
     - Communication occurs across multiple service boundaries
