@@ -55,14 +55,14 @@
 
 ## Patterns
 
-### Request-Response
+### Request-Response (Sync & Async)
 
 - A request is made from **Component A** to Component B
 - **Component A** waits for a response from **Component B** before continue to execute
 - Component A explicitly knows of **Component B**
 - **Component B** may or may not know explicitly of **Component A**
 
-### Event-Driven
+### Event-Driven (Async)
 
 - A system with 4 components, A, B, C and D
 - **Component A** raises an "event" that something of interest has happened.
@@ -72,9 +72,8 @@
   - It listens for the event and reacts accordingly when it occurs.
 - None of the components need to know about each other.
 - They only need to know what events can occur in the system, so they can react accordingly.
-- Event driven is by nature only possible in a s
 
-### Common Data
+### Common Data (Async)
 
 - Data is shared between two components by way of
   - File system
