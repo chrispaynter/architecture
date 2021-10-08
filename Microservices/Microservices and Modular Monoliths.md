@@ -148,17 +148,17 @@ This is an attempt to aggregate information about both architectural styles in a
   - Therefore, a deployment unit is composed of multiple services.
 - Communications inside a 
 
+### Comparison
 
-
-- Component A and Component B represented as:
+- **Component A** and **Component B** represented as:
   - Modules in a modular monolith 
     - Communication occurs across multiple service boundaries
     - But it also occurse inside a single process boundary
-  - Microservices
+  - Services in a distributed microservices setup
     - Communication occurs across multiple service boundaries
     - AND it also occurs across multiple process boundaries
 
-![Microservices _ Modular Monoliths - Process Boundaries](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - Process Boundaries.png)
+![Microservices _ Modular Monoliths - Process Boundaries (1)](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - Process Boundaries (1).png)
 
 # Sharing Code
 
