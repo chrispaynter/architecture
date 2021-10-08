@@ -170,7 +170,13 @@ This is an attempt to aggregate information about both architectural styles in a
 
 ## Central Aggregating Gateway
 
+### Challenges
 
+- The gateway tier is coupled with the internal microservices. 
+- Gateway becomes a single point of failure. 
+- Single request to gateway, can result in multiple child requests to services, potential for long latency. 
+- Gateway can become a bottleneck if not scaled properly. 
+- As system grows, if gateway is owned by a single team, it can become a bottleneck for other teams who are changing services and need chagnes in the gateway.
 
 
 
