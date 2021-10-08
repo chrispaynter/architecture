@@ -19,10 +19,6 @@ This is an attempt to aggregate information about both architectural styles in a
 
 # Communication
 
-## Resources
-
-- [Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/) by Sam Newman
-
 ## Technical mechanisms
 
 ### In-process
@@ -226,8 +222,24 @@ This is an attempt to aggregate information about both architectural styles in a
 
 ### What is it
 
-- Could be considered an extension of Central Aggregating Gateway
+- Acts very much like a reverse proxy
+- Provides mechanisms such as
+  - API Keys for external parties
+  - Logging
+  - Rate Limiting
+  - Quotas
+- Some gateways provide developer portals also.
+
+### Potential for misuse
+
+
+
+
 
 ![Microservices _ Modular Monoliths - API Gateway (MS)](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - API Gateway (MS).png)
 
 ![Microservices _ Modular Monoliths - API Gateway (Monolith)](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - API Gateway (Monolith).png)
+
+# Resources
+
+- [Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/) by Sam Newman 
