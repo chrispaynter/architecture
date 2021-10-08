@@ -9,6 +9,10 @@
 
 # Communication
 
+## Resources
+
+- Building Microservices by Sam Newman
+
 ## Technical considerations
 
 ### In-process Communication
