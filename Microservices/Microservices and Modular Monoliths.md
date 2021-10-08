@@ -173,6 +173,7 @@ This is an attempt to aggregate information about both architectural styles in a
 ### What is it
 
 - Sits between individual microservices and clients that consume them.
+- Simplifies the interface between them
 
 ### Benefits
 
