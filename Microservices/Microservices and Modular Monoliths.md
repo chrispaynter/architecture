@@ -23,16 +23,16 @@ This is an attempt to aggregate information about both architectural styles in a
 
 - [Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/) by Sam Newman
 
-## Technical considerations
+## Technical mechanisms
 
-### In-process Communication
+### In-process
 
 - Two software components running inside the same process.
 - Running on the same platform / language.
 - Both can communicate reliably together.
 - Communication limitations are determined by the access controls available in the language.
 
-### Intra-process Communication
+### Intra-process
 
 - Two software components running in separate processes
 - These processes might be on the same machine.
@@ -123,6 +123,7 @@ This is an attempt to aggregate information about both architectural styles in a
 ### Mixing patterns
 
 - A mix of these patterns can be used by a single Microservices
+- Also, these patterns can be used both with in-process and intra-process mechanims.
 
 ## Communicating across boundaries
 
