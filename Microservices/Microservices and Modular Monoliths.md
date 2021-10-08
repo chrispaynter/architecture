@@ -214,7 +214,7 @@ This is an attempt to aggregate information about both architectural styles in a
 - Ownerships
   - Does the front end team own it? 
   - Do they have the skillset?
-- 
+- See [Netflix approach](https://netflixtechblog.com/embracing-the-differences-inside-the-netflix-api-redesign-15fd8b3dc49d).
 
 
 
