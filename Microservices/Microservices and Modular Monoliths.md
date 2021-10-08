@@ -218,3 +218,4 @@ This is an attempt to aggregate information about both architectural styles in a
 
 
 
+![Microservices _ Modular Monoliths - API Gateway (Monolith)](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - API Gateway (Monolith).png)
