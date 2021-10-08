@@ -13,6 +13,10 @@ This is an attempt to aggregate information about both architectural styles in a
 
 > Design as microservices, build as modules.
 
+- We can apply the same approach to designing modules as we do with microservices.
+- After all, in DDD speak, they're esentially bounded contexts.
+- However, applying the same principles to modules can challenge existing thinking and practice.
+
 # Communication
 
 ## Resources
