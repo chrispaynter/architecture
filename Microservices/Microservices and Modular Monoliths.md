@@ -1,5 +1,7 @@
 # Microservices and Modular Monoliths
 
+This is an attempt to aggregate information about both architectural styles in a way that can be referenced as a guide during architectural thinking.
+
 [TOC]
 
 # Boundaries
