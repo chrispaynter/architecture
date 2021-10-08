@@ -6,6 +6,7 @@ This is an attempt to aggregate information about both architectural styles in a
 
 # Boundaries
 
+- Microservices are basically 
 - What belongs inside a given microservice?
 - What doesn't?
 
