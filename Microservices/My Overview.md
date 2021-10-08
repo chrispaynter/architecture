@@ -71,12 +71,14 @@
 
 - A request is made from **Component A** to Component B
 - **Component A** waits for a response from **Component B** before continue to execute
-  - No explicit "connection" remains open 
-- Component A explicitly knows of **Component B**
+  - No explicit "connection" remains open to **Component B**.
+  - Resources used to execute **Component A** are freed whilst waiting.
+  - Consider that multiple instances of **Component A** are available
+    - A different instance of **Component A** may receive the response than the one that sent the request.
+- **Component A** explicitly knows of **Component B**
 - **Component B** may or may not know explicitly of **Component A**
 - Example technologies
-  - REST over HTTP (Sync)
-  - Queue-Based Brokers (Async)
+  - Queue-Based Brokers
   - RPC
 
 ### Event-Driven (Async)
