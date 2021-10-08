@@ -7,6 +7,10 @@
 - What belongs inside a given microservice?
 - What doesn't?
 
+## Boundaries in a modular monolith
+
+> Design as microservices, build as modules.
+
 # Communication
 
 ## Resources
