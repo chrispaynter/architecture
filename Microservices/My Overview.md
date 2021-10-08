@@ -11,7 +11,7 @@
 
 ## Resources
 
-- Building Microservices by Sam Newman
+- [Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/) by Sam Newman
 
 ## Technical considerations
 
