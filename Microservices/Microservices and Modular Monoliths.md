@@ -235,6 +235,10 @@ This is an attempt to aggregate information about both architectural styles in a
 - API Gateway's have been sold as a panacea to a number of problems that they shouldn't really be used for.
   - Sam Newman says this is due to the fact they were evolved in a time where the market for them seemed large
   - Turns out it wasn't, and now the VC funded ones are trying to find any kind of way to sell them into businesses.
+- **Avoid doing aggregation**
+  - Can lead to core business processes being baked into a third party tool
+  - If you need to do aggregation, use the Central Aggregating Gateway or 
+- Avoid doing protocol writing
 
 
 
