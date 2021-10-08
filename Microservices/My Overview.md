@@ -34,6 +34,26 @@
     - Latency
     - etc
 
+## Workflows
+
+### Synchronous Communication (Blocking)
+
+- **Component A** needs to communicate with **Component B**
+- It has to wait until **Component B** is complete
+  - Thus, **Component A** is blocked until **Component B** has completed.
+- It may or may not need to return a data payload
+  - Command or Query (CQRS)
+
+### Asynchronous Communication (Non-Blocking)
+
+- **Component A** needs to communicate with **Component B**
+
+- **Component A** does not need to wait for **Component B** to complete
+
+- Component A may or may not be expect
+
+  
+
 ## Patterns
 
 ### Request-Response
@@ -53,8 +73,16 @@
   - It listens for the event and reacts accordingly when it occurs.
 - None of the components need to know about each other.
 - They only need to know what events can occur in the system, so they can react accordingly.
+- Event driven is by nature only possible in a s
 
 ### Common Data
+
+- Data is shared between two components by way of
+  - File system
+  - Database
+- **Component A** has new data, and places it in a CSV file on a shared drive.
+- **Component B** periodically checks this shared drive for new data.
+- Neither service needs to know anything about each other.
 
 # Sharing Code
 
