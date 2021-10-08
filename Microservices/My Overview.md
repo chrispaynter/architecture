@@ -89,6 +89,10 @@
   - File system
   - Database
 
+### Mixing patterns
+
+- A mix of these patterns can be used by a single Microservices
+
 # Sharing Code
 
 # Transactions
