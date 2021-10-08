@@ -216,6 +216,6 @@ This is an attempt to aggregate information about both architectural styles in a
 
 - Could be considered an extension of Central Aggregating Gateway
 
-
+![Microservices _ Modular Monoliths - API Gateway (MS)](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - API Gateway (MS).png)
 
 ![Microservices _ Modular Monoliths - API Gateway (Monolith)](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - API Gateway (Monolith).png)
