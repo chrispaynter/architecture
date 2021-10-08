@@ -38,10 +38,21 @@
 
 ### Request-Response
 
-- A request is made from Compone
-- A res
+- A request is made from **Component A** to Component B
+- **Component A** waits for a response from **Component B** before continue to execute
+- Component A explicitly knows of **Component B**
+- **Component B** may or may not know explicitly of **Component A**
 
 ### Event-Driven
+
+- A system with 4 components, A, B, C and D
+- **Component A** raises an "event" that something of interest has happened.
+- **Component B** and **Component C** doens't care that this event happens.
+  - They actually don't even know about it.
+- **Component D** does care when this event happens.
+  - It listens for the event and reacts accordingly when it occurs.
+- None of the components need to know about each other.
+- They only need to know what events can occur in the system, so they can react accordingly.
 
 ### Common Data
 
