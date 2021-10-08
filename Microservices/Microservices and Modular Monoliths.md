@@ -202,7 +202,21 @@ This is an attempt to aggregate information about both architectural styles in a
 
 - Could be considered an extension of Central Aggregating Gateway
 - Creation of multiple built for purpose APIs that suit the requirements of individual clients.
-- A useful approach when a One Size Fits All approach no longer works
+- A useful approach when a One Size Fits All approach no longer works.
+
+### Benefits
+
+- More concise responses from services for particular clients (iOS vs Android)
+
+### Challenges
+
+- More APIs to handle
+- Ownerships
+  - Does the front end team own it? 
+  - Do they have the skillset?
+- 
+
+
 
 ![Microservices _ Modular Monoliths - BFF (MS)](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - BFF (MS).png)
 
