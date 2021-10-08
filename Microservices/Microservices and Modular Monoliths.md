@@ -209,3 +209,12 @@ This is an attempt to aggregate information about both architectural styles in a
 ![Microservices _ Modular Monoliths - BFF (MS)](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - BFF (MS).png)
 
 ![Microservices _ Modular Monoliths - BFF (Monolith)](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - BFF (Monolith).png)
+
+## API Gateway
+
+### What is it
+
+- Could be considered an extension of Central Aggregating Gateway
+
+
+
