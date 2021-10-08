@@ -170,6 +170,10 @@ This is an attempt to aggregate information about both architectural styles in a
 
 ## Central Aggregating Gateway
 
+### What is it
+
+- Sits between individual microservices and clients that consume them.
+
 ### Benefits
 
 - Decoupling of clients from individual "microservices". 
