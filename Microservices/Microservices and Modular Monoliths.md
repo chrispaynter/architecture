@@ -4,6 +4,17 @@ This is an attempt to aggregate information about both architectural styles in a
 
 [TOC]
 
+# Primary Challengs
+
+The primary challenges of proceeding with a microservices or modular monolith architecture are:
+
+- Defining the service boundaries correctly
+- Communicating between service boundaries
+- Sharing code between boundaries
+- Performing transactions across boundaries
+- Versioning services/modules
+- Architecting the overall system solution
+
 # Boundaries
 
 - Microservices are basically 
