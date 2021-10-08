@@ -124,6 +124,10 @@ This is an attempt to aggregate information about both architectural styles in a
 
 - A mix of these patterns can be used by a single Microservices
 
+## Communicating across boundaries
+
+
+
 # Sharing Code
 
 # Transactions
