@@ -168,7 +168,9 @@ This is an attempt to aggregate information about both architectural styles in a
 
 # Architecture
 
-## Gateway Aggregation
+## Central Aggregating Gateway
+
+
 
 
 
