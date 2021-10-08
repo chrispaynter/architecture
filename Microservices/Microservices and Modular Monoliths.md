@@ -223,12 +223,23 @@ This is an attempt to aggregate information about both architectural styles in a
 ### What is it
 
 - Acts very much like a reverse proxy
+
+### Benefits
+
 - Provides mechanisms such as
   - API Keys for external parties
   - Logging
   - Rate Limiting
   - Quotas
 - Some gateways provide developer portals also.
+
+### Challenges
+
+- If you misuse it, then you can suffer:
+  -  from vendor lock in
+  - business logic making it's way into the gateway
+- It becomes an intermediary for all microservice calls
+  - Extra network hop
 
 ### Potential for misuse
 
@@ -238,7 +249,9 @@ This is an attempt to aggregate information about both architectural styles in a
 - **Avoid doing aggregation**
   - Can lead to core business processes being baked into a third party tool
   - If you need to do aggregation, use the Central Aggregating Gateway or 
-- Avoid doing protocol writing
+- **Avoid doing protocol rewriting**
+  - i.e From XML to JSON
+  - Pipes should be dumb, endpoints should be smart.
 
 
 
