@@ -36,6 +36,8 @@
 
 ## Workflows
 
+![Microservices _ Modular Monoliths - Page 2](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - Page 2.png)
+
 ### Synchronous Communication (Blocking)
 
 - **Component A** needs to communicate with **Component B**
