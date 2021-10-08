@@ -125,11 +125,15 @@ This is an attempt to aggregate information about both architectural styles in a
 - A mix of these patterns can be used by a single Microservices
 - Also, these patterns can be used both with in-process and intra-process mechanims.
 
-## Communicating across module/service boundaries
+## Communicating across boundaries
 
 - Component A and Component B represented as:
-  - Modules in a modular monolith (single process boundary)
-  - Microservices (multiple process boundaries)
+  - Modules in a modular monolith 
+    - Communication occurs across multiple service boundaries
+    - But it also occurse inside a single process boundary
+  - Microservices
+    - Communication occurs across multiple service boundaries
+    - AND it also occurs across multiple process boundaries
 
 ![Microservices _ Modular Monoliths - Process Boundaries](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - Process Boundaries.png)
 
