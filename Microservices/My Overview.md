@@ -55,10 +55,23 @@
 
 ## Patterns
 
-### Request-Response (Sync & Async)
+### Request-Response (Sync)
 
 - A request is made from **Component A** to Component B
 - **Component A** waits for a response from **Component B** before continue to execute
+  - Connection to **Component B** remains open.
+  - Resources used to execute **Component A** is in contention till the response is returned.
+- Component A explicitly knows of **Component B**
+- **Component B** may or may not know explicitly of **Component A**
+- Example technologies
+  - REST over HTTP
+  - RPC
+
+### Request-Response (Async)
+
+- A request is made from **Component A** to Component B
+- **Component A** waits for a response from **Component B** before continue to execute
+  - No explicit "connection" remains open 
 - Component A explicitly knows of **Component B**
 - **Component B** may or may not know explicitly of **Component A**
 - Example technologies
