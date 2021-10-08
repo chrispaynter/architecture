@@ -168,3 +168,5 @@ This is an attempt to aggregate information about both architectural styles in a
 
 # Architecture
 
+## Gatweays
+
