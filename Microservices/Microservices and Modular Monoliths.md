@@ -1,11 +1,17 @@
 # Microservices and Modular Monoliths
 
+[TOC]
+
+# Introduction
+
 This is an attempt to aggregate information about both architectural styles in a way that can be referenced as a guide during architectural thinking.
 
 - It's goal is to bring microservices thinking into the design of a monolithic application.
 - The intention being to design and build a monolith that can have individual modules broken off into microservices, when the time comes.
 
-[TOC]
+## Cost over time
+
+<img src="/Users/chrispaynter/Downloads/Artboard.jpg" alt="Artboard" style="zoom: 67%; float:left;" />
 
 # Primary Challengs
 
