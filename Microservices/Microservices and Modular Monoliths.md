@@ -53,6 +53,8 @@ The primary challenges of proceeding with a microservices or modular monolith ar
 
 # Communication
 
+- The biggest issue in changing a monolith into
+
 ## Technical mechanisms
 
 ### In-process
