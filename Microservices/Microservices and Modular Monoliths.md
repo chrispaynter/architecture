@@ -17,7 +17,11 @@ The primary challenges of proceeding with a microservices or modular monolith ar
 
 # Boundaries
 
-- Microservices are basically 
+- There are technological _and_ logical benifits to crafting well designed boundaries.
+- The microservices architecutre uses services as a unit of modularity.
+- Aservice has an API, which is an impermeable boundary that is diffucilt to violate.
+  - You can't bypass an API and access internal classes as you can with a Java package.
+  - Thus, it's much easier to preserve the modularity of the application over time.
 - What belongs inside a given microservice?
 - What doesn't?
 
