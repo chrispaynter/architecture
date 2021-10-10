@@ -22,7 +22,7 @@ The primary challenges of proceeding with a microservices or modular monolith ar
 
 - There are technological _and_ logical benifits to crafting well designed boundaries.
 - The microservices architecutre uses services as a unit of modularity.
-- Aservice has an API, which is an impermeable boundary that is diffucilt to violate.
+- A service has an API, which is an impermeable boundary that is diffucilt to violate.
   - You can't bypass an API and access internal classes as you can with a Java package.
   - Thus, it's much easier to preserve the modularity of the application over time.
 - What belongs inside a given microservice?
@@ -32,6 +32,7 @@ The primary challenges of proceeding with a microservices or modular monolith ar
 
 > Design as microservices, build as modules.
 
+- In practice, it's often too easy for module boundaries in monoliths to be breached.
 - We can apply the same approach to designing modules as we do with microservices.
 - After all, in DDD speak, they're esentially bounded contexts.
 - However, applying the same principles to modules can challenge existing thinking and practice.
@@ -250,7 +251,7 @@ The primary challenges of proceeding with a microservices or modular monolith ar
 - Ownerships
   - Does the front end team own it? 
   - Do they have the skillset?
-- See [Netflix approach](https://netflixtechblog.com/embracing-the-differences-inside-the-netflix-api-redesign-15fd8b3dc49d).
+- See [Netflix approach](https://netflixtechblog.com/embracing-the-differences-inside-the-netflix-api-redesign-15fd8b3dc49d) to moving from One Size Fits All (OSFA)
 
 
 
