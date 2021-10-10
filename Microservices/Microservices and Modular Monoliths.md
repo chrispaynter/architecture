@@ -55,7 +55,7 @@ The primary challenges of proceeding with a microservices or modular monolith ar
 
 > The biggest issue in changing a monolith into microservices lies in changing the communication pattern. A naive conversion from in-memory method calls to RPC leads to chatty communications which don't perform well. Instead you need to replace the fine-grained communication with a coarser -grained approach.
 >
-> Martin Fowler
+> [Martin Fowler](https://martinfowler.com/articles/microservices.html)
 
 ## Technical mechanisms
 
