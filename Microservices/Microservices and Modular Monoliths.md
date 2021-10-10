@@ -294,7 +294,7 @@ The primary challenges of proceeding with a microservices or modular monolith ar
 - **Avoid doing protocol rewriting**
   - i.e From XML to JSON
   - Pipes should be dumb, endpoints should be smart.
-- 
+- [Smart endpoints and dumb pipes.](https://stackoverflow.com/questions/26616962/microservices-what-are-smart-endpoints-and-dumb-pipes)
 
 
 
