@@ -292,7 +292,7 @@ WIP
 
 - The monolithic application core itself is incorporate into API applications as if it was a library.
   - It's just an assembly after all.
-- If we have multiple APIs running on top of the monolith, then there it could be so that we end up with multiple versions of the application core running at the same time, across different services.
+- If we have multiple APIs running on top of the monolith, then there it could be so that we end up with multiple versions of the application core running at the same time, across different services. 
 
 ![Microservices _ Modular Monoliths - Multiple BFF #1](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - Multiple BFF #1.png)
 
