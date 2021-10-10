@@ -32,7 +32,7 @@ The primary challenges of proceeding with a microservices or modular monolith ar
 
 > Design as microservices, build as modules.
 
-- In practice, it's often too easy for module boundaries in monoliths to be breached.
+- 
 - We can apply the same approach to designing modules as we do with microservices.
 - After all, in DDD speak, they're esentially bounded contexts.
 - However, applying the same principles to modules can challenge existing thinking and practice.
@@ -40,6 +40,7 @@ The primary challenges of proceeding with a microservices or modular monolith ar
 
 ### Module boundaries are harder to keep closed (C#)
 
+- In practice, it's often too easy for module boundaries in monoliths to be breached.
 - Information hiding is hard in modules that are made of multiple assemblies
 - The "internal" assemblies of the module need to expose key internal pieces via `public` modifiers.
 - Most of these should not be accesible outside the boundary of the module
