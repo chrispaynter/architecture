@@ -13,7 +13,7 @@ This is an attempt to aggregate information about both architectural styles in a
 
 <img src="/Users/chrispaynter/Downloads/Artboard.jpg" alt="Artboard" style="zoom: 67%; float:left;" />
 
-# Primary Challengs
+# Primary Challenges
 
 The primary challenges of proceeding with a microservices or modular monolith architecture are:
 
