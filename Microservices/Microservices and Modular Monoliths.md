@@ -2,6 +2,9 @@
 
 This is an attempt to aggregate information about both architectural styles in a way that can be referenced as a guide during architectural thinking.
 
+- It's goal is to bring microservices thinking into the design of a monolithic application.
+- The intention being to design and build a monolith that can have individual modules broken off into microservices, when the time comes.
+
 [TOC]
 
 # Primary Challengs
@@ -203,7 +206,11 @@ The primary challenges of proceeding with a microservices or modular monolith ar
 ### Benefits
 
 - Decoupling of clients from individual "microservices". 
-- Reduction of round trips from multiple services to build a workflow / screen 
+- Reduction of round trips from multiple services to build a workflow / screen
+  - Client calls one interface
+  - That interface aggregates calls to multiple internal interfaces (i.e other microservices)
+  - Less latency
+- Reduce chattiness between clients and services.
 - Centralised security handling - "microservices" are free from having to be concerned with access level security 
 - Other cross cutting handled.
 
