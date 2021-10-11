@@ -31,6 +31,11 @@ This is an attempt to aggregate information about both architectural styles in a
 ## Differences
 
 - The main difference is in the interface between clients and the module/microservice
+  - In other words, the communication between modules vs microservices
+  - Everything else behind the public interface is effectively the same
+    - App layer (CQRS)
+    - Domain layer (DDD / bounded context)
+    - Infrastructure layer (own database)
 - Microservices expose a inter-process API, whereas monoliths expose an in-process API
   - In CQRS, the in-process API would generally be the commands and queries themselves.
   - Could add layer that mimics the REST APIs functionality in order to better represent the module as a "microservice"
@@ -41,7 +46,7 @@ This is an attempt to aggregate information about both architectural styles in a
 - Thus, interprocess API can be much easier to use, however it runs the risk of bloating client code
   - Rather than a single nice endpoint, the client code would call and potentially aggregate commands themselves
 
-# Primary Challenges
+## Primary Challenges with both
 
 The primary challenges of proceeding with a microservices or modular monolith architecture are:
 
