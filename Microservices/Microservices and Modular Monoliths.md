@@ -57,6 +57,15 @@ The primary challenges of proceeding with a microservices or modular monolith ar
 - Versioning services/modules
 - Architecting the overall system solution
 
+## Primary Challenges with modular monolith
+
+- Communication between modules is done in-process
+  - Means all code is running in the same process
+  - Potential for boundaries to be violated
+  - More work is required to protect the boundaries between modules
+  - Microservices on the other hand are separate process separated by a network
+  - This forms a naturally rigid boundary which cannot be violated.
+
 # Boundaries
 
 - There are technological _and_ logical benifits to crafting well designed boundaries.
