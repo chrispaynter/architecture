@@ -259,6 +259,7 @@ The primary challenges of proceeding with a microservices or modular monolith ar
   - Does the front end team own it? 
   - Do they have the skillset?
 - See [Netflix approach](https://netflixtechblog.com/embracing-the-differences-inside-the-netflix-api-redesign-15fd8b3dc49d) to moving from One Size Fits All (OSFA)
+- REA guy -  "one experience, one BFF."
 
 
 
