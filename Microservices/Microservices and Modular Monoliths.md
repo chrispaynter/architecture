@@ -9,7 +9,7 @@ This is an attempt to aggregate information about both architectural styles in a
 - It's goal is to bring microservices thinking into the design of a monolithic application.
 - The intention being to design and build a monolith that can have individual modules broken off into microservices, when the time comes.
 
-## Cost over time
+## Cost comparison over time
 
 <img src="/Users/chrispaynter/Downloads/Artboard.jpg" alt="Artboard" style="zoom: 67%; float:left;" />
 
@@ -23,6 +23,20 @@ This is an attempt to aggregate information about both architectural styles in a
     - In-process for modules
 - Hiding internals helps to avoid creating a big ball of mud 
   - Difficult to break into microservices later if the time comes.
+
+## Similarities
+
+- Craft module boundaries in a way that provide all the benefits of 
+
+## Differences
+
+- Microservices expose a inter-process API, whereas monoliths expose an in-process API
+  - In CQRS, the in-process API would generally be the commands and queries themselves.
+  - Could add layer that mimics the REST APIs functionality in order to better represent the module as a "microservice"
+    - Would ease transition later
+  - Doing so would add more overhead to the monolith though, which may:
+    - add confusion to new devs
+    - erode some of the productivity savings.
 
 # Primary Challenges
 
