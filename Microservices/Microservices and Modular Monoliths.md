@@ -17,9 +17,12 @@ This is an attempt to aggregate information about both architectural styles in a
 
 - Craft module boundaries in a way that provide all the benefits of microservices.
   - Information hiding
+    - Clients cannot access internals
   - Client code can only access a publicly exposed API
-    - IPC based in micro
-- 
+    - Inter-process for Microservices
+    - In-process for modules
+- Hiding internals helps to avoid creating a big ball of mud 
+  - Difficult to break into microservices later if the time comes.
 
 # Primary Challenges
 
