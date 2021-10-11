@@ -13,6 +13,14 @@ This is an attempt to aggregate information about both architectural styles in a
 
 <img src="/Users/chrispaynter/Downloads/Artboard.jpg" alt="Artboard" style="zoom: 67%; float:left;" />
 
+## What are we trying to achieve with a Modular Monolith?
+
+- Craft module boundaries in a way that provide all the benefits of microservices.
+  - Information hiding
+  - Client code can only access a publicly exposed API
+    - IPC based in micro
+- 
+
 # Primary Challenges
 
 The primary challenges of proceeding with a microservices or modular monolith architecture are:
