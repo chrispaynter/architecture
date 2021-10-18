@@ -353,7 +353,8 @@ The primary challenges of proceeding with a microservices or modular monolith ar
 
 ### CQRS
 
-- Commands do not return business data, 
+- Commands do not return business data.
+- Queries can return business data.
 
 # Versioning
 
