@@ -351,6 +351,10 @@ The primary challenges of proceeding with a microservices or modular monolith ar
 
 ![Microservices _ Modular Monoliths - API Gateway (Monolith)](/Users/chrispaynter/Downloads/Microservices _ Modular Monoliths - API Gateway (Monolith).png)
 
+### CQRS
+
+
+
 # Versioning
 
 WIP
