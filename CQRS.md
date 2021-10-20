@@ -29,3 +29,19 @@
 - CQRS is just a tool in the toolbox.
 - An entire system doesn't have to be built using the pattern.
 - Maybe just some parts of the system make more sense.
+
+## CRUD vs CQRS
+
+- Take for example, a customer update process.
+- In CRUD, you might have a single form with all fields on the customer. One of those fields might be "make preferred".
+  - All this data gets saved at the same time, in a single unit of work.
+- Consider that "make preferred" gets selected, and saved.
+  - In between opening the customer record and saving, an event arrived saying the user doesn't pay their bills.
+  - In that case, the customer should not have been made preferred.
+  - However, in the CRUD system, we're just updating fields in a database.
+  - Unless we added transaction script type logic to the update process, the user may be made preferred when they shouldn't.
+- In CQRS, we split these concepts into commands.
+  - Task based operations.
+  - The update of basic data like name, email, etc could be one command.
+  - The changing of preferred status would be another.
+  - Each having their own individual business logic.
