@@ -7,8 +7,6 @@
 ## Key Idea
 
 - You can use a different model to update information than the model you use to read information.When to use it
-  - Like any pattern, CQRS is us
-- Commands don't have to be processed 
 
 ## When to use it
 - Like any pattern, CQRS is useful in some places, but not in others.
@@ -30,6 +28,11 @@
 - CQRS is just a tool in the toolbox.
 - An entire system doesn't have to be built using the pattern.
 - Maybe just some parts of the system make more sense.
+
+## Synchronicity vs Asyrchronicity
+
+- Commands don't have to be processed immedaitely - they can be queued.
+- This makes 
 
 ## CRUD vs CQRS
 
