@@ -16,4 +16,5 @@
 
 ### Benifits
 
-- Some 
+- Some complex domains may be easier to tackle by using CQRS.
+  - Martin Fowler suggests 
