@@ -2,7 +2,7 @@
 
 ## Resources
 
-- 
+- [CQRS](https://martinfowler.com/bliki/CQRS.html) by Martin Fowler
 
 ## Key Idea
 
