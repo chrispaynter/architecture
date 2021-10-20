@@ -19,4 +19,5 @@
 - Some complex domains may be easier to tackle by using CQRS.
   - Martin Fowler suggests that the suitability of CQRS is a minor case.
 - Handling high performance applications.
-- 
+  - Separate the load of writes from reads.
+  - Scale reads out if necessary.
