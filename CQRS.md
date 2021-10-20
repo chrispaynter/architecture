@@ -25,4 +25,5 @@
 
 ## What to consider
 
-- Some information systems fit well with the notion that information 
+- Some information systems fit well with the notion that information is updated in the same way that it is read.
+- 
