@@ -17,4 +17,5 @@
 ### Benifits
 
 - Some complex domains may be easier to tackle by using CQRS.
-  - Martin Fowler suggests 
+  - Martin Fowler suggests that the suitability of CQRS is a minor case.
+- 
