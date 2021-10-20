@@ -45,3 +45,9 @@
   - The update of basic data like name, email, etc could be one command.
   - The changing of preferred status would be another.
   - Each having their own individual business logic.
+
+## Other things to note
+
+- Commands are _sent_ to the server.
+- Not _published_.
+  - Publishing is used for events, a separate idea.
