@@ -22,7 +22,7 @@
   - Separate the load of writes from reads.
   - Scale reads out if necessary.
 
-## What to consider
+## What to consider when architecting
 
 - Some information systems fit well with the notion that information is updated in the same way that it is read.
 - CQRS is just a tool in the toolbox.
