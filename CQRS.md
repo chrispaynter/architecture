@@ -34,6 +34,7 @@
 - Commands don't have to be processed immedaitely - they can be queued.
 - How fast they get processed is a matter of SLA and is not architecturally significant.
 - In this way, commands are autonomous - they're sent off and trusted.
+- UIs may not even show anything else to the user once the command is sent off.
 
 ## CRUD vs CQRS
 
