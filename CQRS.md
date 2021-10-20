@@ -25,4 +25,4 @@
 
 ## What to consider
 
-- Some information systems 
+- Some information systems fit well with the notion that information 
