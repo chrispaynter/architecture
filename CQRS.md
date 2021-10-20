@@ -26,4 +26,6 @@
 ## What to consider
 
 - Some information systems fit well with the notion that information is updated in the same way that it is read.
-- 
+- CQRS is just a tool in the toolbox.
+- An entire system doesn't have to be built using the pattern.
+- Maybe just some parts of the system make more sense.
