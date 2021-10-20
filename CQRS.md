@@ -2,4 +2,4 @@
 
 ## Key Idea
 
-- You use 
+- You can use a different model for 
