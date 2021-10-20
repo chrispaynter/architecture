@@ -40,8 +40,8 @@
   - In that case, the customer should not have been made preferred.
   - However, in the CRUD system, we're just updating fields in a database.
   - Unless we added transaction script type logic to the update process, the user may be made preferred when they shouldn't.
-- In CQRS, we split these concepts into commands.
-  - Task based operations.
+- In CQRS, we split these concepts into commands
+  - Task based operations, each a unit of work in their own right.
   - The update of basic data like name, email, etc could be one command.
   - The changing of preferred status would be another.
   - Each having their own individual business logic.
