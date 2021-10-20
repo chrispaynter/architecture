@@ -32,8 +32,7 @@
 ## Synchronicity vs Asyrchronicity
 
 - Commands don't have to be processed immedaitely - they can be queued.
-- How fast they get processed is a matter of SLA
-- 
+- How fast they get processed is a matter of SLA and is not architecturally significant
 
 ## CRUD vs CQRS
 
